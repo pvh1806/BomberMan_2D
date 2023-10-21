@@ -1,0 +1,45 @@
+map tong.png
+size:2011,700
+filter:Linear,Linear
+pma:true
+Candy planet
+bounds:1523,312,266,60
+Elements - Sparks 082 Shot Right Loop noCT noRSZ/Elements - Sparks 082 Shot Right Loop noCT noRSZ_00000
+bounds:1809,498,200,200
+Elements - Sparks 082 Shot Right Loop noCT noRSZ/Elements - Sparks 082 Shot Right Loop noCT noRSZ_00001
+bounds:1074,41,200,200
+Elements - Sparks 082 Shot Right Loop noCT noRSZ/Elements - Sparks 082 Shot Right Loop noCT noRSZ_00002
+bounds:1809,296,200,200
+Elements - Sparks 082 Shot Right Loop noCT noRSZ/Elements - Sparks 082 Shot Right Loop noCT noRSZ_00003
+bounds:1276,41,200,200
+Elements - Sparks 082 Shot Right Loop noCT noRSZ/Elements - Sparks 082 Shot Right Loop noCT noRSZ_00004
+bounds:1478,110,200,200
+Elements - Sparks 082 Shot Right Loop noCT noRSZ/Elements - Sparks 082 Shot Right Loop noCT noRSZ_00005
+bounds:1712,32,200,200
+Fire planet
+bounds:1478,46,232,62
+Forest planet
+bounds:1126,243,270,62
+Frozen planet
+bounds:1126,307,286,62
+Galaxy planet
+bounds:1523,374,284,62
+Group 1
+bounds:1126,371,395,327
+Layer 1
+bounds:584,26,257,224
+Layer 14 copy
+bounds:2,265,636,433
+Layer 2
+bounds:843,22,228,229
+rotate:90
+Layer 4
+bounds:331,2,251,261
+Sea planet
+bounds:1680,234,237,60
+candy-Planet
+bounds:2,2,327,261
+sea-planet
+bounds:1523,438,284,260
+tau luom
+bounds:640,252,484,446

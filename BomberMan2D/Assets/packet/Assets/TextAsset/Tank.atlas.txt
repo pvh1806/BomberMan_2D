@@ -1,0 +1,264 @@
+Tank.png
+size:1085,1085
+filter:Linear,Linear
+pma:true
+Body
+bounds:830,671,141,126
+offsets:1,1,143,128
+Body Die
+bounds:2,925,216,158
+offsets:1,1,218,160
+De Phai
+bounds:628,865,210,92
+offsets:3,2,214,95
+De Phai 1.1
+bounds:811,799,169,61
+offsets:1,1,171,63
+De Phai Die
+bounds:220,860,211,95
+offsets:3,1,215,97
+De Trai
+bounds:207,763,207,95
+offsets:3,1,212,97
+De Trai Die
+bounds:840,862,207,95
+offsets:3,1,212,97
+Fire Atk L 1
+bounds:994,566,58,50
+offsets:6,6,72,61
+Fire Atk L 10
+bounds:125,387,163,107
+offsets:10,11,180,123
+rotate:90
+Fire Atk L 11
+bounds:671,351,112,94
+offsets:5,17,132,120
+Fire Atk L 12
+bounds:690,55,64,72
+offsets:11,10,91,92
+Fire Atk L 2
+bounds:754,467,135,74
+offsets:4,4,143,82
+rotate:90
+Fire Atk L 3
+bounds:574,377,181,95
+offsets:5,7,190,106
+rotate:90
+Fire Atk L 4
+bounds:433,858,193,98
+offsets:5,6,202,108
+Fire Atk L 5
+bounds:416,755,197,101
+offsets:5,5,206,111
+Fire Atk L 6
+bounds:2,797,203,126
+offsets:6,5,213,135
+Fire Atk L 7
+bounds:626,959,198,124
+offsets:9,4,211,133
+Fire Atk L 8
+bounds:2,2,184,120
+offsets:5,4,196,128
+rotate:90
+Fire Atk L 9
+bounds:232,191,184,116
+offsets:5,7,198,131
+rotate:90
+Fire Atk R 1
+bounds:851,116,58,50
+offsets:8,6,72,61
+rotate:90
+Fire Atk R 10
+bounds:450,200,163,107
+offsets:7,11,180,123
+rotate:90
+Fire Atk R 11
+bounds:968,450,112,94
+offsets:15,17,132,120
+rotate:90
+Fire Atk R 12
+bounds:978,100,64,72
+offsets:16,10,91,92
+Fire Atk R 2
+bounds:922,301,135,74
+offsets:4,4,143,82
+rotate:90
+Fire Atk R 3
+bounds:628,768,181,95
+offsets:4,7,190,106
+Fire Atk R 4
+bounds:524,560,193,98
+offsets:4,6,202,108
+rotate:90
+Fire Atk R 5
+bounds:129,188,197,101
+offsets:4,5,206,111
+rotate:90
+Fire Atk R 6
+bounds:220,957,203,126
+offsets:4,5,213,135
+Fire Atk R 7
+bounds:826,959,198,124
+offsets:4,4,211,133
+Fire Atk R 8
+bounds:124,2,184,120
+offsets:7,4,196,128
+rotate:90
+Fire Atk R 9
+bounds:353,377,184,116
+offsets:9,7,198,131
+rotate:90
+Fire Atk S 1
+bounds:751,2,51,58
+offsets:6,8,63,72
+rotate:90
+Fire Atk S 10
+bounds:723,604,105,162
+offsets:8,7,118,180
+Fire Atk S 11
+bounds:577,107,98,112
+offsets:9,15,115,132
+Fire Atk S 12
+bounds:998,374,74,66
+offsets:10,16,94,92
+rotate:90
+Fire Atk S 2
+bounds:559,228,81,135
+offsets:4,4,90,143
+Fire Atk S 3
+bounds:624,585,97,181
+offsets:7,4,108,190
+Fire Atk S 4
+bounds:471,365,101,193
+offsets:5,4,110,202
+Fire Atk S 5
+bounds:187,563,107,198
+offsets:4,4,115,206
+Fire Atk S 6
+bounds:2,592,121,203
+offsets:5,4,130,213
+Fire Atk S 7
+bounds:425,958,125,199
+offsets:5,3,135,211
+rotate:90
+Fire Atk S 8
+bounds:234,377,117,184
+offsets:5,7,128,196
+Fire Atk S 9
+bounds:246,4,112,185
+offsets:6,8,126,199
+Fire Atk T 1
+bounds:690,2,51,59
+offsets:6,5,63,72
+rotate:90
+Fire Atk T 10
+bounds:830,564,105,162
+offsets:8,11,118,181
+rotate:90
+Fire Atk T 11
+bounds:577,7,98,111
+offsets:9,5,115,132
+rotate:90
+Fire Atk T 12
+bounds:775,109,74,65
+offsets:10,10,94,91
+Fire Atk T 2
+bounds:671,447,81,136
+offsets:4,4,90,144
+Fire Atk T 3
+bounds:350,194,98,181
+offsets:6,5,108,190
+Fire Atk T 4
+bounds:474,5,101,193
+offsets:5,4,110,201
+Fire Atk T 5
+bounds:296,563,107,198
+offsets:4,3,115,205
+Fire Atk T 6
+bounds:2,387,121,203
+offsets:5,6,130,213
+Fire Atk T 7
+bounds:2,188,125,197
+offsets:5,9,135,211
+Fire Atk T 8
+bounds:405,568,117,185
+offsets:5,4,128,195
+Fire Atk T 9
+bounds:360,7,112,185
+offsets:6,5,126,198
+Khoi_00001
+bounds:1031,217,33,26
+offsets:78,81,200,200
+Khoi_00002
+bounds:1031,245,58,48
+offsets:62,71,200,200
+rotate:90
+Khoi_00003
+bounds:998,305,74,67
+offsets:56,60,200,200
+Khoi_00004
+bounds:677,129,96,90
+offsets:46,49,200,200
+Khoi_00005
+bounds:973,682,115,110
+offsets:39,41,200,200
+rotate:90
+Khoi_00006
+bounds:908,174,125,121
+offsets:35,35,200,200
+rotate:90
+Khoi_00007
+bounds:776,176,130,126
+offsets:32,33,200,200
+Khoi_00008
+bounds:642,221,132,128
+offsets:31,32,200,200
+Khoi_00009
+bounds:785,304,135,132
+offsets:30,30,200,200
+Khoi_00010
+bounds:830,438,136,124
+offsets:29,33,200,200
+Layer 518
+bounds:756,55,43,43
+offsets:1,1,45,46
+Layer 518 copy 2
+bounds:1040,817,43,43
+offsets:1,1,45,46
+Layer 571
+bounds:982,804,56,56
+offsets:1,1,58,58
+Shadow
+bounds:125,552,243,60
+offsets:1,1,245,62
+rotate:90
+Sung Phai
+bounds:1026,964,47,55
+offsets:215,193,633,495
+rotate:90
+Sung Sau
+bounds:903,110,62,73
+offsets:1,1,64,75
+rotate:90
+Sung Trai
+bounds:1026,1013,70,55
+offsets:361,194,633,495
+rotate:90
+Sung Truoc
+bounds:994,618,62,89
+offsets:1,1,64,91
+rotate:90
+Xich 1
+bounds:1054,576,28,40
+offsets:1,1,30,42
+Xich 2
+bounds:624,569,44,14
+offsets:1,1,46,16
+Xich 3
+bounds:207,879,44,11
+offsets:1,1,46,13
+rotate:90
+Xich 4
+bounds:615,813,43,11
+offsets:1,1,45,13
+rotate:90

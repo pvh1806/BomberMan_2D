@@ -1,0 +1,96 @@
+Quai Doi.png
+size:1347,222
+filter:Linear,Linear
+pma:true
+Body Die
+bounds:2,18,202,179
+offsets:1,1,204,181
+rotate:90
+Body Ngang
+bounds:183,18,202,179
+offsets:1,1,204,181
+rotate:90
+Body Sau
+bounds:183,18,202,179
+offsets:1,1,204,181
+rotate:90
+Body Tuoc
+bounds:183,18,202,179
+offsets:1,1,204,181
+rotate:90
+Canh_L Truoc
+bounds:737,112,141,108
+offsets:5,2,151,111
+Eye Die
+bounds:1164,161,120,59
+offsets:2,1,124,61
+Eye Die Ngang
+bounds:1227,56,61,59
+offsets:1,1,64,61
+Eye Ngang
+bounds:1286,161,59,59
+offsets:1,1,61,61
+Eye Truoc
+bounds:609,26,142,59
+offsets:1,1,144,61
+Leg_L Ngang
+bounds:1037,8,93,102
+offsets:1,1,95,113
+Leg_R Ngang
+bounds:1037,8,93,102
+offsets:1,1,95,113
+Leg_R Sau
+bounds:1037,8,93,102
+offsets:1,1,95,113
+Leg_R Truoc
+bounds:1037,8,93,102
+offsets:1,1,95,113
+Leg_L Sau
+bounds:1132,8,93,102
+offsets:1,1,95,113
+Leg_L Truoc
+bounds:1132,8,93,102
+offsets:1,1,95,113
+Mout Ngang
+bounds:1290,43,72,41
+offsets:2,1,76,43
+rotate:90
+Mouth Truoc
+bounds:1164,117,147,42
+offsets:1,1,149,45
+Shadow Chet
+bounds:364,18,243,60
+offsets:1,1,245,62
+Shadow Ngang
+bounds:364,18,243,60
+offsets:1,1,245,62
+Shadow Sau
+bounds:364,18,243,60
+offsets:1,1,245,62
+Shadow truoc
+bounds:364,18,243,60
+offsets:1,1,245,62
+Wing Die Ngang
+bounds:490,87,133,122
+offsets:1,1,135,124
+rotate:90
+Wing Ngang
+bounds:753,2,140,108
+offsets:6,2,152,111
+Wing_L Die
+bounds:614,87,133,121
+offsets:1,1,135,124
+rotate:90
+Wing_L Sau
+bounds:880,112,140,108
+offsets:6,2,152,111
+Wing_R Die
+bounds:364,80,140,124
+offsets:1,1,142,126
+rotate:90
+Wing_R Sau
+bounds:895,2,140,108
+offsets:6,2,152,111
+Wing_R Truoc
+bounds:1022,112,140,108
+offsets:6,2,152,111

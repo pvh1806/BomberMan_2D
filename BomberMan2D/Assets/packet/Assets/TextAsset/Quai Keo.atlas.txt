@@ -1,0 +1,41 @@
+Quai Keo.png
+size:425,425
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,25,182,198
+offsets:1,1,184,200
+Body Die
+bounds:2,225,185,198
+offsets:1,1,188,200
+Eye L
+bounds:349,52,49,52
+offsets:1,1,51,54
+Eye L Die
+bounds:186,90,88,87
+offsets:1,1,90,89
+rotate:90
+Eye R
+bounds:296,45,51,59
+offsets:1,1,54,61
+Eye R Die
+bounds:275,106,88,87
+offsets:1,1,90,89
+Mouth
+bounds:241,2,86,53
+offsets:1,1,88,56
+rotate:90
+Mouth Die
+bounds:186,2,86,53
+offsets:1,2,88,56
+rotate:90
+Non
+bounds:251,195,123,113
+offsets:104,165,245,279
+Non Die
+bounds:251,310,123,113
+offsets:104,165,245,279
+Shadow
+bounds:189,180,243,60
+offsets:1,1,245,62
+rotate:90

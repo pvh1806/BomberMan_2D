@@ -1,0 +1,51 @@
+Quai Nam.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Body Ngang
+bounds:0,8,269,247
+Body Sau
+bounds:0,8,269,247
+Body Truoc
+bounds:0,8,269,247
+Eye Die
+bounds:331,10,113,44
+rotate:90
+Eye Die Ngang
+bounds:375,0,42,44
+Eye Ngang
+bounds:378,203,52,46
+rotate:90
+Eye Truoc
+bounds:331,123,132,47
+rotate:90
+Leg_L Ngang
+bounds:375,44,79,41
+rotate:90
+Leg_L Sau
+bounds:375,44,79,41
+rotate:90
+Leg_L Truoc
+bounds:375,44,79,41
+rotate:90
+Leg_R Ngang
+bounds:375,44,79,41
+rotate:90
+Leg_R Sau
+bounds:375,44,79,41
+rotate:90
+Leg_R Truoc
+bounds:375,44,79,41
+rotate:90
+Shadow Die
+bounds:269,10,245,62
+rotate:90
+Shadow
+bounds:269,10,245,62
+rotate:90
+Shadow Ngang
+bounds:269,10,245,62
+rotate:90
+Shadow Sau
+bounds:269,10,245,62
+rotate:90

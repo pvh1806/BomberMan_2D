@@ -1,0 +1,72 @@
+Thay Onip.png
+size:594,594
+filter:Linear,Linear
+pma:true
+Eye L
+bounds:297,132,72,54
+offsets:1,3,82,64
+rotate:90
+Eye L Die
+bounds:353,133,71,71
+offsets:1,1,73,73
+Eye L Sau
+bounds:188,26,83,55
+offsets:2,3,87,67
+rotate:90
+Eye Ngang
+bounds:245,36,83,54
+offsets:1,3,87,66
+rotate:90
+Eye R
+bounds:301,58,72,54
+offsets:9,3,83,66
+rotate:90
+Eye R Die
+bounds:357,60,71,71
+offsets:1,1,73,73
+Eye R Sau
+bounds:240,121,83,55
+offsets:1,3,87,67
+rotate:90
+Lot
+bounds:483,50,230,107
+offsets:2,2,234,110
+rotate:90
+Mouth 1
+bounds:2,111,236,110
+offsets:1,1,239,112
+Mouth 1 Die
+bounds:245,206,236,110
+offsets:1,1,239,112
+Mouth 1 Ngang
+bounds:2,223,241,124
+offsets:1,2,243,127
+Mouth 1 Sau
+bounds:2,438,254,154
+offsets:2,2,257,157
+Mouth 2
+bounds:258,380,250,83
+offsets:5,1,257,101
+Mouth 2 Die
+bounds:258,465,250,127
+offsets:5,1,257,129
+Mouth 2 Ngang
+bounds:2,349,247,87
+offsets:3,2,255,133
+Mouth 2 Sau
+bounds:510,378,214,82
+offsets:2,1,217,84
+rotate:90
+Ngoc Trai
+bounds:2,15,94,94
+offsets:1,1,96,96
+Ngoc Trai Die
+bounds:98,15,94,88
+offsets:81,110,257,276
+rotate:90
+Ngoc Trai Ngang
+bounds:496,282,94,94
+offsets:74,102,257,272
+Shadow
+bounds:251,318,243,60
+offsets:1,1,245,62

@@ -1,0 +1,13 @@
+Xuyen Tuong.png
+size:425,425
+filter:Linear,Linear
+pma:true
+BG
+bounds:111,274,149,149
+offsets:1,1,151,151
+Glow
+bounds:262,262,161,161
+offsets:1,1,163,163
+Wall
+bounds:2,320,107,103
+offsets:1,1,109,105

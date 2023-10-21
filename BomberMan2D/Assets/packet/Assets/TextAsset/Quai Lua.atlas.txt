@@ -1,0 +1,91 @@
+Quai Lua.png
+size:871,544
+filter:Linear,Linear
+pma:true
+Quai_Lua/Body
+bounds:496,186,177,262
+rotate:90
+Quai_Lua/Body Ngang
+bounds:2,12,221,264
+Quai_Lua/Body Sau
+bounds:227,177,174,262
+rotate:90
+Quai_Lua/Eye
+bounds:630,74,124,54
+offsets:1,1,126,56
+Quai_Lua/Eye Die
+bounds:297,6,119,45
+offsets:1,1,121,47
+Quai_Lua/Eye Die Ngang
+bounds:820,223,43,45
+offsets:1,1,45,47
+Quai_Lua/Eye Ngang
+bounds:825,368,44,51
+offsets:1,4,46,56
+Quai_Lua/Mouth
+bounds:425,34,141,64
+offsets:1,1,143,66
+rotate:90
+Quai_Lua/Mouth Die
+bounds:491,68,135,54
+offsets:1,1,137,56
+Quai_Lua/Mouth Die Ngang
+bounds:757,92,71,51
+offsets:1,1,73,53
+Quai_Lua/Mouth Ngang
+bounds:628,2,87,70
+offsets:1,1,89,72
+Quai_Lua/Shadow Ngang
+bounds:225,115,198,60
+offsets:1,1,200,62
+Quai_Lua/Shadow
+bounds:225,115,198,60
+offsets:1,1,200,62
+Quai_Lua/Shadow Sau
+bounds:225,115,198,60
+offsets:1,1,200,62
+Quai_Lua_Xanh/Body
+bounds:496,365,177,265
+rotate:90
+Quai_Lua_Xanh/Body Ngang
+bounds:2,278,223,264
+Quai_Lua_Xanh/Body Sau
+bounds:227,353,189,267
+rotate:90
+Quai_Lua_Xanh/Eye
+bounds:630,130,125,54
+offsets:1,2,128,57
+Quai_Lua_Xanh/Eye Die Ngang
+bounds:825,323,43,44
+offsets:2,1,46,46
+rotate:90
+Quai_Lua_Xanh/Eye Ngang
+bounds:820,270,43,51
+offsets:1,5,45,57
+Quai_Lua_Xanh/EyeDie
+bounds:825,421,121,44
+offsets:1,1,123,46
+rotate:90
+Quai_Lua_Xanh/Mouth
+bounds:491,124,137,60
+offsets:1,1,139,62
+Quai_Lua_Xanh/Mouth Die Ngang
+bounds:225,2,70,49
+offsets:1,2,72,52
+Quai_Lua_Xanh/Mouth Ngang
+bounds:717,7,89,65
+offsets:1,1,91,67
+Quai_Lua_Xanh/MouthDie
+bounds:491,13,135,53
+offsets:1,1,137,55
+Quai_Lua_Xanh/Shadow
+bounds:760,145,198,58
+offsets:1,1,200,60
+rotate:90
+Quai_Lua_Xanh/Shadow Ngang
+bounds:763,345,197,60
+offsets:1,1,199,62
+rotate:90
+Quai_Lua_Xanh/Shadow Sau
+bounds:225,53,198,60
+offsets:1,1,200,62

@@ -1,0 +1,26 @@
+Item Time.png
+size:285,467
+filter:Linear,Linear
+pma:true
+Layer 29 copy 13
+bounds:165,340,116,125
+offsets:1,1,118,127
+Layer 29 copy 4
+bounds:153,10,52,55
+offsets:1,1,55,57
+Layer 40
+bounds:2,153,149,149
+offsets:1,1,151,151
+Layer 40 copy
+bounds:153,170,132,130
+offsets:1,5,136,136
+rotate:90
+Rounded Rectangle 1
+bounds:2,2,149,149
+offsets:1,1,151,151
+Rounded Rectangle 1 copy 3
+bounds:2,304,161,161
+offsets:1,1,163,163
+clock copy
+bounds:153,67,100,101
+offsets:1,1,102,103

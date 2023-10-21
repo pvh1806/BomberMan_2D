@@ -1,0 +1,50 @@
+Quai Tree.png
+size:489,489
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,186,225,301
+Body Die
+bounds:229,204,220,283
+offsets:1,1,225,301
+Eye L
+bounds:323,68,55,60
+offsets:1,1,59,62
+Eye L Die
+bounds:331,131,71,71
+offsets:1,1,73,73
+Eye R
+bounds:380,59,55,60
+offsets:3,1,59,62
+rotate:90
+Eye R Die
+bounds:250,57,71,71
+offsets:1,1,73,73
+Hand  R
+bounds:104,38,74,84
+Hand L
+bounds:404,116,55,86
+Hand L Die
+bounds:180,40,68,82
+offsets:1,1,70,84
+Hand R Die
+bounds:247,130,72,82
+offsets:1,1,74,84
+rotate:90
+La
+bounds:306,4,54,51
+offsets:1,1,56,53
+La Die
+bounds:250,4,54,51
+offsets:1,1,56,53
+Mout Die
+bounds:2,2,120,49
+offsets:2,2,124,53
+rotate:90
+Mouth
+bounds:53,2,120,49
+offsets:2,2,124,53
+rotate:90
+Shadow
+bounds:2,124,243,60
+offsets:1,1,245,62

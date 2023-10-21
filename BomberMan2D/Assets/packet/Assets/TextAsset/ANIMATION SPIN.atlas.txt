@@ -1,0 +1,29 @@
+ANIMATION SPIN.png
+size:569,569
+filter:Linear,Linear
+pma:true
+GLOW 01
+bounds:2,254,270,266
+offsets:1,1,272,268
+rotate:90
+GLOW 02
+bounds:557,319,248,10
+offsets:1,1,250,12
+rotate:90
+GLOW 03
+bounds:2,3,249,253
+offsets:6,3,262,259
+rotate:90
+Layer 2
+bounds:545,26,541,10
+rotate:90
+bg
+bounds:270,2,253,210
+rotate:90
+line
+bounds:2,526,541,10
+line copy 4
+bounds:270,257,267,267
+offsets:1,1,269,269
+line_inside
+bounds:2,538,541,29

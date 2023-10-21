@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb8fc2deb875dbe48afde78748ec6c6c, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  filePath: Assets/_Game/Map/Map.txt
+  imageBackGround: {fileID: 21300000, guid: d55b43a8bd423c84a998d2eafe192233, type: 3}
+  prefabs:
+  - {fileID: 6090889669739753900, guid: 3b2f6753b813a3c4087f589e25567030, type: 3}
+  - {fileID: 228575024805214641, guid: 454b0c3356758bf4cbb2997a3708300a, type: 3}
+  - {fileID: 2481355003288749618, guid: 7c9819fc3339e4e48a70e7bf91e75dd0, type: 3}
+  backGround: {fileID: 5296037720389617269, guid: 9513ffb538855314abac50861a4a9a9d, type: 3}
+  countSpawn: 26
+  posSpawn: 0.5

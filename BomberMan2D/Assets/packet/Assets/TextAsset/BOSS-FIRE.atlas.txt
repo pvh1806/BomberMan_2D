@@ -1,0 +1,107 @@
+BOSS-FIRE.png
+size:1929,2018
+filter:Linear,Linear
+pma:true
+Body
+bounds:606,1253,354,309
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00001
+bounds:927,2,1000,1000
+FX_ATTACK2/ATTACK-2.1
+bounds:2,1634,292,292
+FX_ATTACK2/ATTACK-2.2
+bounds:1318,1004,457,450
+FX_ATTACK2/ATTACK-2.3
+bounds:1397,1797,219,220
+rotate:90
+FX_DIE/skill effect_2_00
+bounds:605,1588,300,300
+FX_DIE/skill effect_2_01
+bounds:605,1588,300,300
+FX_DIE/skill effect_2_02
+bounds:907,1564,300,300
+FX_DIE/skill effect_2_03
+bounds:907,1564,300,300
+FX_DIE/skill effect_2_04
+bounds:1209,1495,300,300
+FX_DIE/skill effect_2_05
+bounds:1209,1495,300,300
+FX_DIE/skill effect_2_06
+bounds:1511,1456,300,300
+FX_DIE/skill effect_2_07
+bounds:1511,1456,300,300
+FX_DIE/skill effect_2_08
+bounds:2,1287,300,300
+FX_DIE/skill effect_2_09
+bounds:2,1287,300,300
+FX_DIE/skill effect_2_10
+bounds:304,1286,300,300
+FX_DIE/skill effect_2_11
+bounds:304,1286,300,300
+Face
+bounds:296,1589,299,307
+rotate:90
+GLOW-BODY
+bounds:962,1184,354,309
+GLOW-EYES
+bounds:2,1944,192,72
+GLOW-FACE
+bounds:1619,1758,299,258
+GLOW-HEAD
+bounds:196,1928,117,88
+HEAD-4
+bounds:315,1899,117,139
+rotate:90
+Hand_L
+bounds:989,1866,202,150
+Hand_R
+bounds:1193,1866,202,150
+POSE-HIT
+bounds:2,470,923,781
+SHADOW
+bounds:456,1890,531,126
+
+BOSS-FIRE_2.png
+size:1114,1086
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,2,1110,1082
+
+BOSS-FIRE_3.png
+size:2006,2006
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00003
+bounds:2,1004,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00005
+bounds:2,2,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00007
+bounds:1004,1004,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00009
+bounds:1004,2,1000,1000
+
+BOSS-FIRE_4.png
+size:2006,2006
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00011
+bounds:2,1004,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00013
+bounds:2,2,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00015
+bounds:1004,1004,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00017
+bounds:1004,2,1000,1000
+
+BOSS-FIRE_5.png
+size:2006,2006
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00019
+bounds:2,1004,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00021
+bounds:2,2,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00023
+bounds:1004,1004,1000,1000
+FX-ATTACK1/Elements - Energy 019 Ray Up noCT noRSZ/Elements - Energy 019 Ray Up noCT noRSZ_00025
+bounds:1004,2,1000,1000

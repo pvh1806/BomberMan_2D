@@ -1,0 +1,98 @@
+Quai Bach Tuot.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:294,31,225,171
+rotate:90
+Body Die
+bounds:635,32,224,171
+rotate:90
+Body Ngang
+bounds:123,31,225,171
+rotate:90
+Body Sau
+bounds:465,31,225,170
+rotate:90
+Eye
+bounds:806,74,182,82
+rotate:90
+Eye Die
+bounds:888,75,181,80
+rotate:90
+Eye Die copy
+bounds:1176,0,72,77
+Eye Ngang
+bounds:1277,78,73,78
+rotate:90
+Shadow Ngang
+bounds:62,11,245,61
+rotate:90
+Shadow Sau
+bounds:0,11,245,62
+rotate:90
+Shadow
+bounds:0,11,245,62
+rotate:90
+Tua 1
+bounds:1010,1,75,102
+rotate:90
+Tua 1 Die Ngang
+bounds:1112,2,74,64
+rotate:90
+Tua 1 Die
+bounds:1112,2,74,64
+rotate:90
+Tua 1 Die Sau
+bounds:1112,2,74,64
+rotate:90
+Tua 1 Ngang
+bounds:908,0,75,102
+rotate:90
+Tua 1 Sau
+bounds:806,0,74,102
+rotate:90
+Tua 2
+bounds:1353,151,69,105
+Tua 2 Die Ngang
+bounds:1309,9,69,66
+rotate:90
+Tua 2 Die
+bounds:1309,9,69,66
+rotate:90
+Tua 2 Die Sau
+bounds:1309,9,69,66
+rotate:90
+Tua 2 Ngang
+bounds:1215,151,69,105
+Tua 2 Sau
+bounds:1284,151,69,105
+Tua 3
+bounds:1159,77,61,118
+rotate:90
+Tua 3 Die Ngang
+bounds:1248,3,61,74
+Tua 3 Die
+bounds:1248,3,61,74
+Tua 3 Die Sau
+bounds:1248,3,61,74
+Tua 3 Ngang
+bounds:1093,138,61,118
+Tua 3 Sau
+bounds:1154,138,61,118
+Tua 4
+bounds:1031,138,62,118
+Tua 4 Die Ngang
+bounds:1086,76,62,73
+rotate:90
+Tua 4 Die
+bounds:1086,76,62,73
+rotate:90
+Tua 4 Die Sau
+bounds:1086,76,62,73
+rotate:90
+Tua 4 Ngang
+bounds:968,76,62,118
+rotate:90
+Tua 4 Sau
+bounds:968,138,63,118

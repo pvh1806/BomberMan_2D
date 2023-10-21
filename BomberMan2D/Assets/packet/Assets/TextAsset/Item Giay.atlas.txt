@@ -1,0 +1,39 @@
+Item Giay.png
+size:834,171
+filter:Linear,Linear
+pma:true
+Layer 29 copy
+bounds:531,14,24,24
+offsets:1,1,26,26
+Layer 29 copy 2
+bounds:625,2,52,55
+offsets:1,1,55,57
+rotate:90
+Layer 29 copy 4
+bounds:625,2,52,55
+offsets:1,1,55,57
+rotate:90
+Layer 29 copy 3
+bounds:495,3,34,35
+offsets:1,1,36,37
+Layer 35
+bounds:625,56,113,95
+offsets:1,1,115,97
+rotate:90
+Layer 40
+bounds:2,2,167,177
+offsets:1,18,169,196
+rotate:90
+Layer 40 copy
+bounds:495,40,128,129
+offsets:3,4,134,134
+Rounded Rectangle 1
+bounds:344,20,149,149
+offsets:1,1,151,151
+Rounded Rectangle 1 copy 3
+bounds:181,8,161,161
+offsets:1,1,163,163
+giay
+bounds:722,58,111,110
+offsets:1,1,113,112
+rotate:90

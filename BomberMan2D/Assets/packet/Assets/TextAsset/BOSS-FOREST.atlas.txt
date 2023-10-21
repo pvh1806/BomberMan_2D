@@ -1,0 +1,86 @@
+BOSS-FOREST.png
+size:2012,1907
+filter:Linear,Linear
+pma:true
+Eye-L
+bounds:2,1867,54,38
+Eye-R
+bounds:58,1865,54,40
+FX-ATTACK1
+bounds:2,56,468,499
+rotate:90
+FX-ATTACK2
+bounds:503,2,468,509
+rotate:90
+FX-DIE/skill effect_25
+bounds:1424,1505,400,400
+FX-DIE/skill effect_26
+bounds:2,1432,400,400
+FX-DIE/skill effect_27
+bounds:404,1330,400,400
+FX-DIE/skill effect_28
+bounds:806,1276,400,400
+FX-DIE/skill effect_29
+bounds:1208,1103,400,400
+FX-DIE/skill effect_30
+bounds:1610,1103,400,400
+FX-DIE/skill effect_31
+bounds:2,1030,400,400
+FX-DIE/skill effect_32
+bounds:404,928,400,400
+FX-DIE/skill effect_33
+bounds:806,874,400,400
+FX-DIE/skill effect_34
+bounds:1208,701,400,400
+FX-DIE/skill effect_35
+bounds:1610,701,400,400
+FX-DIE/skill effect_36
+bounds:2,628,400,400
+FX-DIE/skill effect_37
+bounds:404,526,400,400
+FX-DIE/skill effect_38
+bounds:806,472,400,400
+FX-DIE/skill effect_39
+bounds:1208,299,400,400
+Hand-L
+bounds:970,1727,200,178
+Hand-L GLOW
+bounds:1172,1678,250,227
+Hand-R
+bounds:722,1732,173,246
+rotate:90
+Layer 1
+bounds:176,1835,70,72
+rotate:90
+Ruby
+bounds:114,1862,43,60
+rotate:90
+Shadow
+bounds:250,1834,470,71
+
+BOSS-FOREST_2.png
+size:1892,1007
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,535,480,470
+FX-ATTACK3
+bounds:484,519,486,614
+rotate:90
+GLOW-POSE ATTACK2.2
+bounds:1100,2,1003,790
+rotate:90
+
+BOSS-FOREST_3.png
+size:1924,1084
+filter:Linear,Linear
+pma:true
+FOREST
+bounds:2,2,1920,1080
+
+BOSS-FOREST_4.png
+size:1788,1351
+filter:Linear,Linear
+pma:true
+GLOW-POSE ATTACK2
+bounds:2,2,1784,1347

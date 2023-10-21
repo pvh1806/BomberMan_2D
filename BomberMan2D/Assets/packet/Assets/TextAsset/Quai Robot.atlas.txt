@@ -1,0 +1,36 @@
+Quai Robot.png
+size:831,250
+filter:Linear,Linear
+pma:true
+Body
+bounds:350,42,346,206
+offsets:2,4,349,211
+Body Die
+bounds:2,42,346,206
+offsets:2,4,349,211
+Canh 1
+bounds:499,6,34,145
+offsets:1,1,36,147
+rotate:90
+Canh 1 Die
+bounds:352,6,34,145
+offsets:1,1,36,147
+rotate:90
+Canh 2
+bounds:177,2,173,38
+offsets:1,1,175,40
+Canh 2 Die
+bounds:2,2,173,38
+offsets:1,1,175,40
+Dau
+bounds:760,18,114,69
+offsets:1,1,116,71
+rotate:90
+Dau Die
+bounds:760,134,114,69
+offsets:1,1,116,71
+rotate:90
+Shadow
+bounds:698,5,243,60
+offsets:1,1,245,62
+rotate:90

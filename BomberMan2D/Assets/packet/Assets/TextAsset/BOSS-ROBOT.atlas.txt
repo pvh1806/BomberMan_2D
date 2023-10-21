@@ -1,0 +1,89 @@
+BOSS-ROBOT.png
+size:2012,1808
+filter:Linear,Linear
+pma:true
+Body
+bounds:828,85,424,417
+Body2
+bounds:404,87,422,415
+Eye
+bounds:2,1746,144,60
+FX-ATTACK1/Elements - Sparks 026 loop Up noCT noRSZ/Elements - Sparks 026 loop Up noCT noRSZ_00000
+bounds:1254,2,500,500
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00000
+bounds:304,985,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00001
+bounds:706,906,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00002
+bounds:1108,906,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00003
+bounds:1510,906,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00004
+bounds:2,583,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00005
+bounds:404,504,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00006
+bounds:806,504,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00007
+bounds:1208,504,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00008
+bounds:1610,504,400,400
+FX-ATTACK1/Elements - Sparks 034 Hit Ray Up noCT noRSZ_00009
+bounds:2,181,400,400
+FX_DIE/skill effect_2_00
+bounds:308,1410,300,300
+FX_DIE/skill effect_2_02
+bounds:610,1387,300,300
+FX_DIE/skill effect_2_04
+bounds:912,1308,300,300
+FX_DIE/skill effect_2_06
+bounds:1214,1308,300,300
+FX_DIE/skill effect_2_08
+bounds:1516,1308,300,300
+FX_DIE/skill effect_2_10
+bounds:2,1174,300,300
+GLOW-HEAD
+bounds:2,1476,234,304
+rotate:90
+HEAD
+bounds:1164,1610,196,266
+rotate:90
+Hand_L
+bounds:1432,1610,196,286
+rotate:90
+Hand_R
+bounds:1720,1610,196,286
+rotate:90
+Leg_L
+bounds:811,1689,117,175
+rotate:90
+Leg_R
+bounds:988,1682,124,174
+rotate:90
+SHADOW
+bounds:148,1712,661,94
+
+BOSS-ROBOT_2.png
+size:2010,1508
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Sparks 026 loop Up noCT noRSZ/Elements - Sparks 026 loop Up noCT noRSZ_00001
+bounds:2,1006,500,500
+FX-ATTACK1/Elements - Sparks 026 loop Up noCT noRSZ/Elements - Sparks 026 loop Up noCT noRSZ_00002
+bounds:2,504,500,500
+FX-ATTACK1/Elements - Sparks 026 loop Up noCT noRSZ/Elements - Sparks 026 loop Up noCT noRSZ_00003
+bounds:504,1006,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00000
+bounds:2,2,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00002
+bounds:504,504,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00004
+bounds:1006,1006,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00006
+bounds:504,2,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00007
+bounds:1006,504,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00008
+bounds:1508,1006,500,500
+FX-ATTACK1/Elements - Sparks 077 Charge Hit Up noCT noRSZ/Elements - Sparks 077 Charge Hit Up noCT noRSZ_00009
+bounds:1006,2,500,500

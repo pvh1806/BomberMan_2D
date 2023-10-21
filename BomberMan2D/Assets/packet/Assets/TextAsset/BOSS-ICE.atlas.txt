@@ -1,0 +1,116 @@
+BOSS-ICE.png
+size:1997,1817
+filter:Linear,Linear
+pma:true
+BOSS-DIE
+bounds:790,2,905,1146
+rotate:90
+BOSS-DIE2
+bounds:2,497,786,717
+Body
+bounds:1104,1449,263,274
+rotate:90
+Ellipse 1 copy
+bounds:304,1216,630,321
+Eye
+bounds:2,1778,109,37
+FX-ATTACK3/GLOW1
+bounds:936,1029,420,418
+FX-ATTACK3/GLOW2
+bounds:653,1556,184,184
+FX-DIE/skill effect_00
+bounds:1380,1406,300,300
+FX-DIE/skill effect_01
+bounds:1380,1406,300,300
+FX-DIE/skill effect_02
+bounds:1682,1341,300,300
+FX-DIE/skill effect_03
+bounds:1682,1341,300,300
+FX-DIE/skill effect_04
+bounds:2,1275,300,300
+FX-DIE/skill effect_05
+bounds:2,1275,300,300
+Hand_L
+bounds:1810,1643,172,185
+rotate:90
+Hand_R
+bounds:2,1590,172,185
+rotate:90
+Head
+bounds:1358,909,505,430
+ICE1
+bounds:1262,1714,101,133
+rotate:90
+ICE2
+bounds:113,1764,51,86
+rotate:90
+ICE3
+bounds:356,1752,63,101
+rotate:90
+ICE4
+bounds:201,1762,53,76
+rotate:90
+ICE5
+bounds:459,1752,63,99
+rotate:90
+ICE6
+bounds:714,1746,69,111
+rotate:90
+ICE7
+bounds:279,1753,62,75
+rotate:90
+Layer 1
+bounds:827,1742,126,73
+Layer 2
+bounds:955,1741,127,74
+Layer 3
+bounds:1084,1733,87,82
+Layer 4
+bounds:1173,1733,87,82
+Layer 5
+bounds:560,1751,64,152
+rotate:90
+MINI BOSS
+bounds:839,1539,192,263
+rotate:90
+Shadow
+bounds:1397,1708,411,107
+Sung
+bounds:189,1577,462,172
+
+BOSS-ICE_2.png
+size:2006,2006
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00000
+bounds:2,1004,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00002
+bounds:2,2,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00004
+bounds:1004,1004,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00006
+bounds:1004,2,1000,1000
+
+BOSS-ICE_3.png
+size:2006,2006
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00008
+bounds:2,1004,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00010
+bounds:2,2,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00012
+bounds:1004,1004,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00014
+bounds:1004,2,1000,1000
+
+BOSS-ICE_4.png
+size:2006,2006
+filter:Linear,Linear
+pma:true
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00016
+bounds:2,1004,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00018
+bounds:2,2,1000,1000
+FX-ATTACK1/Elements - Fire 003 Radial noCT noRSZ/Elements - Fire 003 Radial noCT noRSZ_00020
+bounds:1004,1004,1000,1000

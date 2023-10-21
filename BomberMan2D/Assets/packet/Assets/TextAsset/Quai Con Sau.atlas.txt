@@ -1,0 +1,79 @@
+Quai Con Sau.png
+size:471,471
+filter:Linear,Linear
+pma:true
+Body 1
+bounds:291,93,153,93
+offsets:2,1,156,96
+rotate:90
+Body 1 Die
+bounds:196,93,153,93
+offsets:2,1,156,96
+rotate:90
+Body 2
+bounds:99,82,164,95
+offsets:1,1,167,97
+rotate:90
+Body 2 Die
+bounds:2,82,164,95
+offsets:1,1,167,97
+rotate:90
+Body 3
+bounds:386,136,85,83
+offsets:2,2,89,86
+rotate:90
+Body 3 Die
+bounds:386,223,85,83
+offsets:2,2,89,86
+rotate:90
+Body 4
+bounds:252,248,56,60
+offsets:1,2,58,63
+Body 4 Die
+bounds:194,248,56,60
+offsets:1,2,58,63
+Eye L
+bounds:2,5,73,75
+offsets:2,2,77,78
+Eye L Die
+bounds:206,3,88,87
+offsets:1,1,90,89
+rotate:90
+Eye R
+bounds:77,5,73,75
+offsets:2,2,77,78
+Eye R Die
+bounds:295,3,88,87
+offsets:1,1,90,89
+rotate:90
+Face
+bounds:2,248,190,159
+offsets:2,1,194,161
+Face Die
+bounds:247,310,190,159
+offsets:2,1,194,161
+L
+bounds:310,256,52,70
+offsets:6,11,59,82
+rotate:90
+L Die
+bounds:152,10,52,70
+offsets:6,11,59,82
+R
+bounds:384,11,52,69
+offsets:2,11,60,81
+R Die
+bounds:386,82,52,69
+offsets:2,11,60,81
+rotate:90
+Shadow
+bounds:2,409,243,60
+offsets:1,1,245,62
+mouth
+bounds:439,317,75,28
+offsets:1,1,77,31
+rotate:90
+mouth die
+bounds:439,394,75,28
+offsets:1,1,77,31
+rotate:90

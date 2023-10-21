@@ -1,0 +1,37 @@
+Item Khien.png
+size:758,196
+filter:Linear,Linear
+pma:true
+Layer 29 copy
+bounds:197,7,24,24
+offsets:1,1,26,26
+Layer 29 copy 2
+bounds:568,19,42,42
+offsets:1,2,44,45
+Layer 29 copy 3
+bounds:360,9,34,35
+offsets:1,1,36,37
+rotate:90
+Layer 29 copy 4
+bounds:511,9,52,55
+offsets:1,1,55,57
+rotate:90
+Layer 29 copy 5
+bounds:643,6,91,100
+offsets:1,1,93,102
+rotate:90
+Layer 35
+bounds:643,99,113,95
+offsets:1,1,115,97
+Layer 40
+bounds:2,2,193,192
+offsets:17,19,225,224
+Layer 40 copy
+bounds:511,63,130,131
+offsets:3,4,136,136
+Rounded Rectangle 1
+bounds:360,45,149,149
+offsets:1,1,151,151
+Rounded Rectangle 1 copy 3
+bounds:197,33,161,161
+offsets:1,1,163,163

@@ -1,0 +1,71 @@
+Quai Chim Canh Cut.png
+size:917,227
+filter:Linear,Linear
+pma:true
+Body Ngang
+bounds:464,5,185,220
+offsets:13,2,200,224
+Body Sau
+bounds:64,4,198,221
+Body Truoc
+bounds:264,4,198,221
+Canh Ngang
+bounds:708,146,64,79
+offsets:1,1,66,81
+Eye Die
+bounds:651,5,102,49
+offsets:1,1,104,51
+rotate:90
+Eye Die Ngang
+bounds:860,30,48,49
+offsets:1,1,50,51
+Eye Die Ngang To
+bounds:753,9,60,61
+offsets:1,1,62,63
+Eye Die To
+bounds:651,109,116,55
+offsets:1,1,118,57
+rotate:90
+Eye Ngang
+bounds:866,176,49,49
+offsets:1,1,51,51
+Eye Truoc
+bounds:702,5,102,49
+offsets:1,1,104,51
+rotate:90
+Leg_L  Ngang
+bounds:753,72,72,44
+offsets:1,1,74,46
+rotate:90
+Leg_L Sau
+bounds:815,8,71,43
+offsets:1,1,73,45
+rotate:90
+Leg_L Truoc
+bounds:774,154,71,44
+offsets:1,1,73,46
+rotate:90
+Leg_R Ngang
+bounds:799,81,71,44
+offsets:1,1,73,46
+rotate:90
+Leg_R Sau
+bounds:845,81,71,43
+offsets:1,1,73,45
+rotate:90
+Leg_R Truoc
+bounds:820,154,71,44
+offsets:1,1,73,46
+rotate:90
+Shadow  Ngang
+bounds:2,2,223,60
+offsets:1,1,225,62
+rotate:90
+Shadow  Truoc
+bounds:2,2,223,60
+offsets:1,1,225,62
+rotate:90
+Shadow Sau
+bounds:2,2,223,60
+offsets:1,1,225,62
+rotate:90

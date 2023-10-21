@@ -1,0 +1,262 @@
+Quai Khi Lua.png
+size:1206,1206
+filter:Linear,Linear
+pma:true
+Body
+bounds:552,185,164,109
+offsets:2,2,168,113
+rotate:90
+Body Die
+bounds:447,19,164,109
+offsets:2,3,168,113
+rotate:90
+Body Ngang
+bounds:765,98,103,122
+offsets:1,1,105,124
+rotate:90
+Body Sau
+bounds:432,185,164,118
+offsets:2,1,168,121
+rotate:90
+Chan Phai
+bounds:855,621,50,24
+offsets:2,2,54,27
+Chan Trai
+bounds:1141,1088,50,24
+offsets:2,2,54,27
+Eye L Die
+bounds:1009,156,88,87
+offsets:1,1,90,89
+Eye Ngang
+bounds:908,166,76,99
+offsets:7,2,86,103
+rotate:90
+Eye Phai
+bounds:889,80,84,99
+offsets:3,2,94,103
+rotate:90
+Eye R Die
+bounds:1099,130,88,87
+offsets:1,1,90,89
+Eye Trai
+bounds:1008,304,84,99
+offsets:7,2,94,103
+Fire Atk L 1
+bounds:1080,19,87,50
+offsets:8,6,106,61
+Fire Atk L 10
+bounds:205,2,240,107
+offsets:14,11,265,123
+Fire Atk L 11
+bounds:558,19,164,94
+offsets:7,17,194,120
+rotate:90
+Fire Atk L 12
+bounds:990,82,95,72
+offsets:15,10,133,92
+Fire Atk L 2
+bounds:970,464,199,74
+offsets:6,4,210,82
+rotate:90
+Fire Atk L 3
+bounds:480,351,266,95
+offsets:7,7,278,106
+rotate:90
+Fire Atk L 4
+bounds:306,728,285,98
+offsets:5,6,295,108
+Fire Atk L 5
+bounds:2,27,291,101
+offsets:6,5,302,111
+rotate:90
+Fire Atk L 6
+bounds:2,606,298,126
+offsets:9,5,312,135
+Fire Atk L 7
+bounds:564,1080,291,124
+offsets:13,4,310,133
+Fire Atk L 8
+bounds:306,828,272,120
+offsets:5,4,287,128
+Fire Atk L 9
+bounds:580,835,272,116
+offsets:7,7,291,131
+Fire Atk S 1
+bounds:1111,999,51,82
+offsets:6,11,63,101
+Fire Atk S 10
+bounds:854,876,105,229
+offsets:8,10,118,253
+rotate:90
+Fire Atk S 11
+bounds:908,244,98,156
+offsets:9,21,115,184
+Fire Atk S 12
+bounds:1094,312,74,91
+offsets:10,22,94,127
+Fire Atk S 2
+bounds:1046,472,81,191
+offsets:4,4,90,201
+Fire Atk S 3
+bounds:105,65,98,253
+offsets:6,6,108,267
+Fire Atk S 4
+bounds:582,613,101,271
+offsets:5,6,110,283
+rotate:90
+Fire Atk S 5
+bounds:302,619,107,278
+offsets:4,5,115,289
+rotate:90
+Fire Atk S 6
+bounds:2,320,121,284
+offsets:5,6,130,299
+Fire Atk S 7
+bounds:564,953,125,278
+offsets:5,5,135,296
+rotate:90
+Fire Atk S 8
+bounds:593,716,117,260
+offsets:5,9,128,275
+rotate:90
+Fire Atk S 9
+bounds:577,352,112,259
+offsets:6,11,126,278
+Fire Atk T 1
+bounds:1085,899,51,82
+offsets:6,7,63,100
+Fire Atk T 10
+bounds:855,647,105,227
+offsets:8,14,118,252
+Fire Atk T 11
+bounds:654,19,98,155
+offsets:9,7,115,184
+Fire Atk T 12
+bounds:1099,219,74,91
+offsets:10,14,94,127
+Fire Atk T 2
+bounds:349,136,81,190
+offsets:4,5,90,200
+Fire Atk T 3
+bounds:857,983,98,252
+offsets:6,6,108,264
+rotate:90
+Fire Atk T 4
+bounds:805,342,101,269
+offsets:5,6,110,281
+Fire Atk T 5
+bounds:252,328,107,276
+offsets:4,5,115,286
+Fire Atk T 6
+bounds:857,1083,121,282
+offsets:5,8,130,296
+rotate:90
+Fire Atk T 7
+bounds:125,328,125,276
+offsets:6,12,136,294
+Fire Atk T 8
+bounds:361,359,117,258
+offsets:5,5,128,272
+Fire Atk T 9
+bounds:691,353,112,258
+offsets:6,7,126,276
+Heat Die
+bounds:2,734,302,227
+offsets:2,1,306,229
+Heat Ngang
+bounds:306,950,256,254
+Heat Sau
+bounds:2,963,302,241
+offsets:2,4,306,246
+Layer 46
+bounds:663,176,174,49
+offsets:2,1,178,51
+rotate:90
+Layer 488 copy
+bounds:205,111,215,142
+offsets:2,1,219,145
+rotate:90
+Leg L Die
+bounds:349,111,50,23
+offsets:2,3,54,27
+Leg Ngang
+bounds:1075,798,76,21
+offsets:2,1,79,23
+rotate:90
+Leg R Die
+bounds:2,2,50,23
+offsets:2,3,54,27
+Mouth Die
+bounds:714,177,174,49
+offsets:2,1,178,51
+rotate:90
+Mouth Ngang
+bounds:361,337,59,20
+offsets:1,2,61,23
+Rang 1
+bounds:889,189,17,12
+offsets:1,1,20,15
+Rang 2
+bounds:889,175,17,12
+offsets:2,1,20,15
+Rang Die 1
+bounds:432,166,17,13
+offsets:1,1,20,15
+rotate:90
+Rang Die 2
+bounds:432,147,17,13
+offsets:2,1,20,15
+rotate:90
+Shadow
+bounds:908,402,243,60
+offsets:1,1,245,62
+rotate:90
+Tai Phai
+bounds:924,3,75,77
+offsets:2,1,79,80
+rotate:90
+Tai Trai
+bounds:1003,3,75,77
+offsets:2,1,79,80
+Tail
+bounds:1061,405,65,71
+rotate:90
+Tail Die
+bounds:860,2,62,67
+offsets:2,3,65,71
+Tail Ngang
+bounds:1075,728,62,68
+offsets:2,2,65,71
+Tail Sau
+bounds:1075,668,58,68
+offsets:1,2,60,71
+rotate:90
+Tay L Die
+bounds:970,405,57,89
+offsets:1,4,60,94
+rotate:90
+Tay Ngang
+bounds:105,8,55,90
+offsets:1,2,57,93
+rotate:90
+Tay Phai
+bounds:1141,1114,57,90
+offsets:2,3,60,94
+Tay R Die
+bounds:1008,245,57,89
+offsets:2,4,60,94
+rotate:90
+Tay Trai
+bounds:1087,71,57,90
+offsets:1,3,60,94
+rotate:90
+Toc Lua 1
+bounds:765,203,141,137
+Toc Lua 2
+bounds:962,665,209,111
+offsets:1,2,212,115
+rotate:90
+Toc Lua 3
+bounds:754,15,81,104
+offsets:2,2,84,107
+rotate:90

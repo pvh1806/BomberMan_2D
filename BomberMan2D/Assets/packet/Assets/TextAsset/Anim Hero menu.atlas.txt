@@ -1,0 +1,35 @@
+Anim Hero menu.png
+size:211,722
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,520,200,206
+rotate:90
+Dinh dau
+bounds:143,283,66,70
+offsets:1,2,68,73
+Face
+bounds:2,355,163,168
+offsets:1,1,165,170
+rotate:90
+bomb1
+bounds:2,245,108,139
+offsets:1,1,111,142
+rotate:90
+chan phai
+bounds:118,2,90,110
+offsets:1,1,92,112
+chan trai
+bounds:123,114,86,115
+offsets:1,1,88,117
+ngon tay truoc
+bounds:143,231,50,54
+offsets:2,16,53,84
+rotate:90
+tay phai
+bounds:2,138,105,119
+offsets:2,8,108,129
+rotate:90
+tay trai
+bounds:2,33,114,103
+offsets:1,15,120,126

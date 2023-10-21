@@ -1,0 +1,14 @@
+Xuyen Bomb.png
+size:439,439
+filter:Linear,Linear
+pma:true
+BG
+bounds:126,288,149,149
+offsets:1,1,151,151
+Bomb
+bounds:2,322,115,122
+offsets:1,1,118,125
+rotate:90
+Glow
+bounds:277,277,160,160
+offsets:1,1,162,162

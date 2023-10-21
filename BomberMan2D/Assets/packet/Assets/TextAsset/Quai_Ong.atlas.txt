@@ -1,0 +1,81 @@
+Quai_Ong.png
+size:419,1028
+filter:Linear,Linear
+pma:true
+Body Ngang
+bounds:2,781,296,245
+offsets:1,1,298,247
+Body Ong Truoc
+bounds:2,544,235,248
+offsets:1,1,237,250
+rotate:90
+Body Sau
+bounds:2,307,235,247
+offsets:1,1,237,249
+rotate:90
+Eye Die Ngang
+bounds:346,133,71,73
+offsets:1,1,73,76
+Eye Die Truoc
+bounds:251,184,93,167
+offsets:1,1,95,169
+Eye Ngang
+bounds:245,102,91,80
+offsets:1,5,104,117
+Eye Truoc
+bounds:300,757,192,101
+offsets:5,5,202,113
+rotate:90
+Mouth Die Ngang
+bounds:245,11,52,47
+offsets:1,2,54,51
+rotate:90
+Mouth Die Truoc
+bounds:252,729,45,50
+offsets:1,1,47,52
+Mouth Ngang
+bounds:338,65,73,66
+offsets:1,1,75,68
+Mouth Truoc
+bounds:299,692,118,63
+offsets:1,1,120,65
+Ong Die Truoc
+bounds:2,2,241,241
+offsets:1,1,243,243
+Shadow Die
+bounds:353,208,243,60
+offsets:1,1,245,62
+rotate:90
+Shadow Ngang
+bounds:2,245,243,60
+offsets:1,1,245,62
+Shadow Sau
+bounds:2,245,243,60
+offsets:1,1,245,62
+Shadow Truoc
+bounds:2,245,243,60
+offsets:1,1,245,62
+Wing Die_L Truoc
+bounds:251,353,100,98
+offsets:1,1,104,101
+Wing Die_R Truoc
+bounds:300,951,114,75
+offsets:1,1,116,77
+Wing_L Ngang
+bounds:251,453,120,83
+offsets:1,1,123,85
+Wing_R Ngang
+bounds:251,453,120,83
+offsets:1,1,123,85
+Wing_L Sau
+bounds:252,538,147,75
+offsets:1,1,150,77
+Wings_L Truoc
+bounds:252,538,147,75
+offsets:1,1,150,77
+Wing_R Sau
+bounds:252,615,148,75
+offsets:1,1,150,77
+Wing_R Truoc
+bounds:252,615,148,75
+offsets:1,1,150,77

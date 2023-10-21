@@ -1,0 +1,17 @@
+Shield 3.png
+size:1858,724
+filter:Linear,Linear
+pma:true
+Shield_3/Lop 1
+bounds:2,2,720,720
+offsets:1,1,722,722
+Shield_3/Lop 2
+bounds:724,2,720,720
+offsets:1,1,722,722
+Shield_3/lop 3
+bounds:724,2,720,720
+offsets:1,1,722,722
+Shield_3/lop 4
+bounds:1446,6,716,410
+offsets:4,236,722,680
+rotate:90

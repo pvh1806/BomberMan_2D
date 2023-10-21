@@ -1,0 +1,151 @@
+Boss Bach Tuot.png
+size:1035,1035
+filter:Linear,Linear
+pma:true
+1
+bounds:752,2,22,18
+offsets:1,1,24,20
+2
+bounds:176,3,37,30
+offsets:1,1,39,32
+3
+bounds:987,69,46,33
+offsets:1,1,48,35
+4
+bounds:925,168,61,38
+offsets:1,1,63,40
+5
+bounds:947,40,62,38
+offsets:1,1,64,40
+rotate:90
+6
+bounds:752,158,71,43
+offsets:1,1,73,45
+rotate:90
+Boss Glow
+bounds:2,589,619,444
+offsets:4,4,627,451
+Break Bubble
+bounds:947,104,61,62
+offsets:2,7,66,70
+Bubble 1
+bounds:817,92,63,65
+offsets:2,4,66,70
+Bubble 2
+bounds:817,25,63,65
+offsets:2,4,66,70
+Bubble 3
+bounds:882,92,63,65
+offsets:2,4,66,70
+Bubble 4
+bounds:882,25,63,65
+offsets:2,4,67,70
+Bubble 5
+bounds:959,451,64,66
+offsets:2,3,67,70
+Bubble 6
+bounds:439,42,62,66
+offsets:2,3,66,70
+rotate:90
+Bubble 7
+bounds:752,90,63,66
+offsets:2,3,67,70
+Bubble 8
+bounds:752,22,63,66
+offsets:2,3,67,70
+Eye
+bounds:176,35,134,69
+offsets:1,2,136,73
+Eye Die
+bounds:312,43,125,61
+offsets:1,1,127,63
+Eye Die Nho
+bounds:925,208,119,53
+offsets:1,1,121,55
+rotate:90
+Heat
+bounds:623,729,215,304
+offsets:0,0,215,335
+Lazer 1
+bounds:536,15,214,214
+offsets:4,3,219,218
+Lazer 2
+bounds:536,15,214,214
+offsets:4,3,219,218
+Lazer 3
+bounds:536,15,214,214
+offsets:4,3,219,218
+Lazer 4
+bounds:536,15,214,214
+offsets:4,3,219,218
+Lazer 1.1
+bounds:2,410,177,846
+offsets:40,2,219,880
+rotate:90
+Lazer 2.1
+bounds:2,410,177,846
+offsets:40,2,219,880
+rotate:90
+Lazer 3.1
+bounds:2,231,177,795
+offsets:40,2,219,827
+rotate:90
+Lazer 4.1
+bounds:2,231,177,795
+offsets:40,2,219,827
+rotate:90
+Luoi
+bounds:980,262,48,65
+offsets:29,0,104,65
+Mat 1 Phai
+bounds:312,2,37,39
+offsets:1,1,39,41
+Mat 1 Trai
+bounds:312,2,37,39
+offsets:1,1,39,41
+Mat 2 Phai
+bounds:980,217,43,43
+offsets:1,1,45,45
+Mat 2 Trai
+bounds:980,217,43,43
+offsets:1,1,45,45
+Mat 3 Phai
+bounds:987,26,41,41
+offsets:1,1,43,43
+Mat 3 Trai
+bounds:987,26,41,41
+offsets:1,1,43,43
+Mat 4 Phai
+bounds:351,6,34,35
+offsets:1,1,36,37
+Mat 4 Trai
+bounds:351,6,34,35
+offsets:1,1,36,37
+Mouth
+bounds:959,519,116,64
+offsets:1,2,118,67
+rotate:90
+Mouth Die
+bounds:923,329,110,93
+offsets:1,1,112,95
+Shadow
+bounds:2,106,532,123
+offsets:1,1,534,125
+Tua 1 Phai
+bounds:799,284,124,122
+rotate:90
+Tua 1 Trai
+bounds:799,159,124,123
+Tua 2 Phai
+bounds:623,620,212,107
+Tua 2 Trai
+bounds:850,424,211,107
+rotate:90
+Tua 3 Phai
+bounds:840,836,179,197
+Tua 3 Trai
+bounds:840,637,178,197
+Tua 4 Phai
+bounds:2,2,85,102
+Tua 4 Trai
+bounds:89,2,85,102

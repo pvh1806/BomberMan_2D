@@ -1,0 +1,136 @@
+Quai Cua.png
+size:627,627
+filter:Linear,Linear
+pma:true
+Body Sau
+bounds:64,165,207,175
+offsets:1,1,243,214
+rotate:90
+Bubble
+bounds:2,374,250,251
+offsets:125,123,500,500
+Cang Ngang
+bounds:254,550,75,69
+offsets:1,1,77,71
+rotate:90
+Eye L Die
+bounds:400,33,71,71
+offsets:1,1,73,73
+Eye Ngang
+bounds:374,549,67,76
+offsets:1,1,69,79
+Eye R Die
+bounds:473,33,71,71
+offsets:1,1,73,73
+L
+bounds:512,380,75,69
+offsets:1,1,77,71
+L Die
+bounds:365,478,75,69
+offsets:1,1,77,71
+Leg 1 Ngang
+bounds:405,388,40,88
+offsets:1,3,42,92
+Leg 2
+bounds:593,422,60,29
+offsets:1,2,62,32
+rotate:90
+Leg 2 Ngang
+bounds:365,384,38,92
+offsets:1,1,40,94
+Leg 2.1
+bounds:447,402,31,80
+offsets:1,2,34,84
+Leg L 1
+bounds:444,132,60,44
+offsets:1,1,62,47
+Leg L 1 Die
+bounds:325,565,60,44
+offsets:1,1,62,47
+rotate:90
+Leg L 1.1
+bounds:64,129,34,73
+offsets:1,2,37,76
+rotate:90
+Leg L 1.1 Die
+bounds:214,130,33,72
+offsets:1,2,37,75
+rotate:90
+Leg L 2 Die
+bounds:589,360,60,29
+offsets:1,2,62,32
+rotate:90
+Leg L 2.1 Die
+bounds:480,402,30,80
+offsets:1,2,34,84
+Leg R 1
+bounds:580,48,60,44
+offsets:1,1,62,47
+rotate:90
+Leg R 1 Die
+bounds:580,110,60,44
+offsets:1,1,62,47
+rotate:90
+Leg R 1.1
+bounds:139,129,34,73
+offsets:2,2,37,76
+rotate:90
+Leg R 1.1 Die
+bounds:288,130,35,73
+offsets:1,2,37,76
+rotate:90
+Leg R 2
+bounds:586,236,60,29
+offsets:1,2,62,32
+rotate:90
+Leg R 2 Die
+bounds:586,298,60,29
+offsets:1,2,62,32
+rotate:90
+Leg R 2.1
+bounds:512,451,31,79
+offsets:2,2,34,83
+rotate:90
+Leg R 2.1 Die
+bounds:363,133,32,79
+offsets:1,2,34,83
+rotate:90
+Mouth 1 Die
+bounds:374,178,204,133
+offsets:1,1,206,176
+rotate:90
+Mouth 1 Ngang
+bounds:254,374,173,109
+offsets:1,1,175,111
+rotate:90
+Mouth 2 Die
+bounds:202,18,196,109
+offsets:1,1,198,111
+Mouth 2 Ngang
+bounds:444,484,181,141
+offsets:2,2,186,176
+R
+bounds:509,238,75,69
+offsets:1,1,77,71
+R Die
+bounds:509,309,75,69
+offsets:1,1,77,71
+Shadow
+bounds:2,129,243,60
+offsets:1,1,245,62
+rotate:90
+eye L
+bounds:509,172,64,72
+offsets:1,1,66,74
+rotate:90
+eye R
+bounds:506,106,64,72
+offsets:1,1,66,74
+rotate:90
+mouth1
+bounds:241,167,205,131
+offsets:1,1,207,134
+rotate:90
+mouth2
+bounds:2,18,198,109
+offsets:1,1,200,111

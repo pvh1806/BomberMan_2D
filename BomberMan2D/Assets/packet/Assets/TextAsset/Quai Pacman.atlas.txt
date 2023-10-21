@@ -1,0 +1,48 @@
+Quai Pacman.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+Body Ngang
+bounds:0,3,279,253
+Body Sau
+bounds:0,3,279,253
+Body Truoc
+bounds:0,3,279,253
+Eye Die Ngang
+bounds:421,10,103,91
+Eye Die Truoc
+bounds:421,10,103,91
+Eye Ngang
+bounds:524,10,103,91
+Eye Sau
+bounds:820,23,103,29
+rotate:90
+Eye Truoc
+bounds:729,23,103,91
+rotate:90
+Luoi Die Ngang
+bounds:627,0,126,102
+rotate:90
+Luoi Die
+bounds:627,0,126,102
+rotate:90
+Mouth Die Ngang
+bounds:543,118,138,80
+rotate:90
+Mouth Die Truoc
+bounds:341,28,228,80
+rotate:90
+Mouth Ngang
+bounds:421,101,155,122
+rotate:90
+Mouth Truoc
+bounds:623,126,260,130
+Shadow Ngang
+bounds:279,11,245,62
+rotate:90
+Shadow
+bounds:279,11,245,62
+rotate:90
+Shadow Sau
+bounds:279,11,245,62
+rotate:90

@@ -1,0 +1,37 @@
+Item Dau Lau.png
+size:322,445
+filter:Linear,Linear
+pma:true
+Layer 29 copy
+bounds:104,18,34,34
+offsets:1,1,36,36
+Layer 29 copy 2
+bounds:104,54,52,55
+offsets:1,1,56,57
+rotate:90
+Layer 29 copy 3
+bounds:161,28,34,35
+offsets:1,1,36,37
+Layer 29 copy 4
+bounds:292,286,25,28
+offsets:1,2,30,31
+rotate:90
+Layer 35
+bounds:177,216,113,95
+offsets:1,1,115,97
+Layer 40
+bounds:2,271,173,172
+offsets:13,17,201,200
+Layer 40 copy
+bounds:177,313,130,131
+offsets:1,4,136,136
+rotate:90
+Layer 53
+bounds:2,2,100,104
+offsets:2,8,103,115
+Rounded Rectangle 1
+bounds:165,65,149,149
+offsets:1,1,151,151
+Rounded Rectangle 1 copy 3
+bounds:2,108,161,161
+offsets:1,1,163,163

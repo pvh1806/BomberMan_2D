@@ -1,0 +1,42 @@
+Quai Kem.png
+size:432,432
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,6,177,233
+offsets:1,1,179,235
+rotate:90
+Body Die
+bounds:2,185,177,245
+offsets:1,2,179,248
+Eye L
+bounds:237,83,79,103
+offsets:1,1,81,105
+Eye L Die
+bounds:318,346,85,84
+offsets:1,1,87,86
+Eye R
+bounds:237,2,79,103
+offsets:1,1,81,105
+rotate:90
+Eye R Die
+bounds:243,259,85,84
+offsets:1,1,87,86
+rotate:90
+Leg L
+bounds:329,261,81,83
+offsets:1,1,83,85
+Leg L Die
+bounds:342,3,78,86
+offsets:1,1,80,88
+Leg R
+bounds:318,91,81,83
+offsets:1,1,83,85
+Leg R Die
+bounds:318,176,81,86
+offsets:1,1,83,88
+rotate:90
+Shadow
+bounds:181,188,242,60
+offsets:1,1,244,62
+rotate:90

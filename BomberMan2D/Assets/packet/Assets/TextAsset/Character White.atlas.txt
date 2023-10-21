@@ -1,0 +1,775 @@
+Character White.png
+size:3261,262
+filter:Linear,Linear
+pma:true
+BluePink/Body
+bounds:1037,21,79,57
+offsets:1,1,82,59
+rotate:90
+BluePink/Body Ngang
+bounds:1172,23,78,59
+offsets:3,1,82,61
+rotate:90
+BluePink/Body Sau
+bounds:624,8,80,57
+offsets:1,1,82,59
+rotate:90
+BluePink/Eye
+bounds:1621,2,65,33
+offsets:1,3,67,37
+BluePink/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+Cat/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+Green/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+Ninja/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+Pink/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+Red/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+White/Eye Xoay Phai
+bounds:1742,3,36,32
+offsets:1,1,38,34
+BluePink/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+Cat/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+Green/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+Ninja/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+Pink/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+Red/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+White/Eye Xoay Trai
+bounds:1780,3,36,32
+offsets:1,1,38,34
+BluePink/Eye3
+bounds:1347,3,73,23
+offsets:2,1,77,25
+BluePink/Face
+bounds:458,90,170,152
+offsets:1,1,172,154
+rotate:90
+BluePink/Face Ngang
+bounds:1068,103,157,151
+offsets:1,1,159,153
+rotate:90
+BluePink/Face Sau
+bounds:304,90,170,152
+offsets:1,1,172,154
+rotate:90
+BluePink/Hand_L Ngang
+bounds:120,3,70,65
+offsets:1,1,72,67
+rotate:90
+BluePink/Hand_R
+bounds:120,3,70,65
+offsets:1,1,72,67
+rotate:90
+BluePink/Hand_R Ngang
+bounds:120,3,70,65
+offsets:1,1,72,67
+rotate:90
+BluePink/Hand_R Sau
+bounds:120,3,70,65
+offsets:1,1,72,67
+rotate:90
+BluePink/Hand_L Sau
+bounds:187,3,70,65
+offsets:1,1,72,67
+rotate:90
+BluePink/Hand_L
+bounds:187,3,70,65
+offsets:1,1,72,67
+rotate:90
+BluePink/Leg_L1 Ngang
+bounds:3143,173,27,45
+offsets:1,1,30,47
+rotate:90
+BluePink/Leg_L1
+bounds:3143,173,27,45
+offsets:1,1,30,47
+rotate:90
+BluePink/Leg_R1 Sau
+bounds:3143,173,27,45
+offsets:1,1,30,47
+rotate:90
+BluePink/Leg_L1 Sau
+bounds:3158,81,28,45
+offsets:1,1,30,47
+BluePink/Leg_R1
+bounds:3158,81,28,45
+offsets:1,1,30,47
+BluePink/Leg_L2 Ngang
+bounds:2999,10,43,29
+offsets:1,1,45,31
+BluePink/Leg_R2
+bounds:2999,10,43,29
+offsets:1,1,45,31
+BluePink/Leg_R2 Sau
+bounds:2999,10,43,29
+offsets:1,1,45,31
+BluePink/Leg_L2 Sau
+bounds:3044,10,43,29
+offsets:1,1,45,31
+BluePink/Leg_L2
+bounds:3044,10,43,29
+offsets:1,1,45,31
+BluePink/Leg_R1 Ngang
+bounds:3188,81,28,45
+offsets:1,1,30,47
+BluePink/Leg_R2 Ngang
+bounds:3150,128,43,29
+offsets:1,1,45,31
+rotate:90
+BluePink/Shadow Sau
+bounds:746,2,100,15
+offsets:1,1,102,17
+BluePink/Shadow
+bounds:746,2,100,15
+offsets:1,1,102,17
+BluePink/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+Cat/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+Green/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+Ninja/Shadow
+bounds:746,2,100,15
+offsets:1,1,102,17
+Ninja/Shadow Sau
+bounds:746,2,100,15
+offsets:1,1,102,17
+Ninja/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+Pink/Shadow Sau
+bounds:746,2,100,15
+offsets:1,1,102,17
+Pink/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+Red/Shadow
+bounds:746,2,100,15
+offsets:1,1,102,17
+Red/Shadow Sau
+bounds:746,2,100,15
+offsets:1,1,102,17
+Red/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+White/Shadow
+bounds:746,2,100,15
+offsets:1,1,102,17
+White/Shadow Sau
+bounds:746,2,100,15
+offsets:1,1,102,17
+White/Shadow ngang
+bounds:746,2,100,15
+offsets:1,1,102,17
+Cat/Body
+bounds:388,3,85,61
+offsets:1,1,87,63
+rotate:90
+Cat/Body Ngang
+bounds:41,3,77,70
+offsets:1,1,79,72
+Cat/Body Sau
+bounds:321,3,85,65
+offsets:1,1,87,67
+rotate:90
+Cat/Eye
+bounds:683,8,80,29
+offsets:1,1,82,31
+rotate:90
+Cat/Eye3
+bounds:746,19,80,24
+offsets:1,1,82,26
+rotate:90
+Red/Eye3
+bounds:746,19,80,24
+offsets:1,1,82,26
+rotate:90
+Cat/Face
+bounds:153,75,185,149
+offsets:1,1,187,151
+rotate:90
+Cat/Face Ngang
+bounds:2534,110,142,150
+offsets:1,1,144,152
+Cat/Face Sau
+bounds:2,75,185,149
+offsets:1,2,187,152
+rotate:90
+Cat/Hand_L Ngang
+bounds:2356,37,70,64
+offsets:1,1,72,67
+rotate:90
+Cat/Hand_R
+bounds:2356,37,70,64
+offsets:1,1,72,67
+rotate:90
+Cat/Hand_R Ngang
+bounds:2356,37,70,64
+offsets:1,1,72,67
+rotate:90
+Cat/Hand_R Sau
+bounds:2356,37,70,64
+offsets:1,1,72,67
+rotate:90
+Cat/Hand_L Sau
+bounds:2422,37,70,64
+offsets:1,1,72,67
+rotate:90
+Cat/Hand_L
+bounds:2422,37,70,64
+offsets:1,1,72,67
+rotate:90
+Cat/Leg_L1 Ngang
+bounds:2438,6,29,46
+offsets:1,1,31,48
+rotate:90
+Cat/Leg_R1
+bounds:2438,6,29,46
+offsets:1,1,31,48
+rotate:90
+Cat/Leg_R1 Ngang
+bounds:2438,6,29,46
+offsets:1,1,31,48
+rotate:90
+Cat/Leg_R1 Sau
+bounds:2438,6,29,46
+offsets:1,1,31,48
+rotate:90
+Cat/Leg_L1 Sau
+bounds:2486,6,29,46
+offsets:2,1,32,48
+rotate:90
+Cat/Leg_L1
+bounds:2486,6,29,46
+offsets:2,1,32,48
+rotate:90
+Cat/Leg_L2 Ngang
+bounds:2721,9,45,29
+offsets:1,1,47,31
+Cat/Leg_R2 Ngang
+bounds:2721,9,45,29
+offsets:1,1,47,31
+Cat/Leg_L2 Sau
+bounds:2815,10,44,29
+offsets:1,1,46,31
+Cat/Leg_L2
+bounds:2815,10,44,29
+offsets:1,1,46,31
+Cat/Leg_R2 Sau
+bounds:2768,9,45,29
+offsets:1,1,47,31
+Cat/Leg_R2
+bounds:2768,9,45,29
+offsets:1,1,47,31
+Cat/Shadow Sau
+bounds:848,4,100,15
+offsets:1,1,102,17
+Cat/Shadow
+bounds:848,4,100,15
+offsets:1,1,102,17
+Green/Shadow
+bounds:848,4,100,15
+offsets:1,1,102,17
+Green/Shadow Sau
+bounds:848,4,100,15
+offsets:1,1,102,17
+Pink/Shadow
+bounds:848,4,100,15
+offsets:1,1,102,17
+Green/Body
+bounds:562,8,80,60
+offsets:1,1,82,62
+rotate:90
+Green/Body Ngang
+bounds:1558,35,72,59
+offsets:1,1,74,61
+rotate:90
+Green/Body Sau
+bounds:500,8,80,60
+offsets:1,1,82,62
+rotate:90
+Green/Eye
+bounds:714,9,90,30
+offsets:1,1,92,32
+rotate:90
+Green/Eye3
+bounds:477,7,81,21
+offsets:1,1,83,23
+rotate:90
+Green/Face
+bounds:2824,111,144,149
+offsets:1,1,146,151
+Green/Face Ngang
+bounds:2257,109,139,151
+offsets:3,1,143,153
+Green/Face Sau
+bounds:2678,111,144,149
+offsets:1,1,146,151
+Green/Hand_L Ngang
+bounds:2488,37,70,64
+offsets:1,1,72,66
+rotate:90
+Green/Hand_L Sau
+bounds:254,3,70,65
+offsets:1,1,72,67
+rotate:90
+Green/Hand_L
+bounds:254,3,70,65
+offsets:1,1,72,67
+rotate:90
+Green/Hand_R Ngang
+bounds:1619,37,70,65
+offsets:1,1,72,67
+rotate:90
+Green/Hand_R
+bounds:1619,37,70,65
+offsets:1,1,72,67
+rotate:90
+Green/Hand_R Sau
+bounds:1619,37,70,65
+offsets:1,1,72,67
+rotate:90
+Green/Leg_L1
+bounds:2673,8,29,46
+offsets:1,1,31,48
+rotate:90
+Green/Leg_L1 Ngang
+bounds:3120,125,28,46
+offsets:1,1,30,48
+Green/Leg_R1 Ngang
+bounds:3120,125,28,46
+offsets:1,1,30,48
+Green/Leg_L1 Sau
+bounds:2534,6,29,46
+offsets:1,1,31,48
+rotate:90
+Green/Leg_L2
+bounds:2907,10,44,29
+offsets:1,1,46,31
+Green/Leg_L2 Ngang
+bounds:1526,2,46,30
+offsets:1,1,48,32
+Green/Leg_R2 Ngang
+bounds:1526,2,46,30
+offsets:1,1,48,32
+Green/Leg_L2 Sau
+bounds:2861,10,44,29
+offsets:1,1,46,31
+Green/Leg_R1
+bounds:3128,77,28,46
+offsets:1,1,30,48
+Green/Leg_R1 Sau
+bounds:3190,172,28,46
+offsets:1,1,30,48
+rotate:90
+Green/Leg_R2
+bounds:2237,5,46,30
+offsets:1,1,48,32
+Green/Leg_R2 Sau
+bounds:2189,5,46,30
+offsets:1,1,48,32
+Ninja/Body
+bounds:2684,40,69,65
+offsets:1,1,71,67
+rotate:90
+Ninja/Body Ngang
+bounds:1487,34,69,72
+offsets:1,1,73,74
+Ninja/Body Sau
+bounds:2617,39,69,65
+offsets:1,1,71,67
+rotate:90
+Ninja/Eye
+bounds:3092,112,59,26
+offsets:1,1,61,28
+rotate:90
+Ninja/Eye3
+bounds:1272,3,73,21
+offsets:1,1,75,23
+Ninja/Face
+bounds:2115,109,140,151
+offsets:1,1,142,153
+Ninja/Face Ngang
+bounds:2398,109,134,151
+offsets:1,1,136,153
+Ninja/Face Sau
+bounds:1971,109,142,151
+offsets:1,1,144,153
+Ninja/Hand_L Ngang
+bounds:1686,37,70,65
+offsets:1,1,72,67
+rotate:90
+Ninja/Hand_L Sau
+bounds:1753,37,70,65
+offsets:1,1,72,67
+rotate:90
+Ninja/Hand_L
+bounds:1753,37,70,65
+offsets:1,1,72,67
+rotate:90
+Ninja/Hand_R Ngang
+bounds:1820,37,70,65
+offsets:1,1,72,67
+rotate:90
+Ninja/Hand_R
+bounds:1820,37,70,65
+offsets:1,1,72,67
+rotate:90
+Ninja/Hand_R Sau
+bounds:1820,37,70,65
+offsets:1,1,72,67
+rotate:90
+Ninja/Leg_L1 Ngang
+bounds:2285,6,29,49
+offsets:1,1,31,51
+rotate:90
+Ninja/Leg_R1 Ngang
+bounds:2285,6,29,49
+offsets:1,1,31,51
+rotate:90
+Ninja/Leg_L1 Sau
+bounds:2336,6,29,49
+offsets:1,1,31,51
+rotate:90
+Ninja/Leg_L1
+bounds:2336,6,29,49
+offsets:1,1,31,51
+rotate:90
+Ninja/Leg_L2
+bounds:2005,4,44,31
+offsets:1,1,46,33
+Ninja/Leg_L2 Ngang
+bounds:1574,2,45,31
+offsets:1,1,47,33
+Ninja/Leg_R2 Ngang
+bounds:1574,2,45,31
+offsets:1,1,47,33
+Ninja/Leg_R2 Sau
+bounds:1574,2,45,31
+offsets:1,1,47,33
+Ninja/Leg_L2 Sau
+bounds:1959,4,44,31
+offsets:1,1,46,33
+Ninja/Leg_R1 Sau
+bounds:2387,6,29,49
+offsets:1,1,31,51
+rotate:90
+Ninja/Leg_R1
+bounds:2387,6,29,49
+offsets:1,1,31,51
+rotate:90
+Ninja/Leg_R2
+bounds:1818,4,45,31
+offsets:1,1,47,33
+Pink/Body
+bounds:974,21,79,61
+offsets:1,1,81,63
+rotate:90
+Pink/Body Ngang
+bounds:3009,41,68,58
+offsets:1,1,70,60
+rotate:90
+Pink/Body Sau
+bounds:911,21,79,61
+offsets:1,1,81,63
+rotate:90
+Pink/Eye
+bounds:1233,2,100,37
+offsets:1,1,102,39
+rotate:90
+Pink/Eye3
+bounds:612,90,87,9
+offsets:1,1,89,11
+Pink/Face
+bounds:917,102,158,149
+offsets:1,1,160,151
+rotate:90
+Pink/Face Ngang
+bounds:1372,108,147,152
+offsets:1,1,149,154
+Pink/Face Sau
+bounds:1221,104,156,149
+offsets:1,1,158,151
+rotate:90
+Pink/Hand_L
+bounds:2021,37,70,65
+offsets:1,1,72,67
+rotate:90
+Pink/Hand_L Ngang
+bounds:1887,37,70,65
+offsets:1,1,72,67
+rotate:90
+Pink/Hand_L Sau
+bounds:1954,37,70,65
+offsets:1,1,72,67
+rotate:90
+Pink/Hand_R
+bounds:2155,37,70,65
+offsets:1,1,72,67
+rotate:90
+Pink/Hand_R Ngang
+bounds:2088,37,70,65
+offsets:1,1,72,67
+rotate:90
+Pink/Hand_R Sau
+bounds:2088,37,70,65
+offsets:1,1,72,67
+rotate:90
+Pink/Leg_L1
+bounds:3092,233,27,50
+offsets:1,1,31,52
+rotate:90
+Pink/Leg_L1 Ngang
+bounds:3092,203,28,49
+offsets:1,1,30,51
+rotate:90
+Pink/Leg_R1 Sau
+bounds:3092,203,28,49
+offsets:1,1,30,51
+rotate:90
+Pink/Leg_L1 Sau
+bounds:1422,2,28,50
+offsets:1,1,31,52
+rotate:90
+Pink/Leg_L2
+bounds:2097,4,44,31
+offsets:1,1,46,33
+Pink/Leg_L2 Ngang
+bounds:1865,4,45,31
+offsets:1,1,47,33
+Pink/Leg_R2 Sau
+bounds:1865,4,45,31
+offsets:1,1,47,33
+Pink/Leg_L2 Sau
+bounds:2051,4,44,31
+offsets:1,1,46,33
+Pink/Leg_R1
+bounds:3092,173,28,49
+offsets:1,1,30,51
+rotate:90
+Pink/Leg_R1 Ngang
+bounds:1474,2,28,50
+offsets:2,1,31,52
+rotate:90
+Pink/Leg_R2
+bounds:1912,4,45,31
+offsets:1,1,47,33
+Pink/Leg_R2 Ngang
+bounds:2143,4,44,31
+offsets:1,1,46,33
+Red/Body
+bounds:842,21,79,67
+offsets:1,2,81,70
+rotate:90
+Red/Body Ngang
+bounds:1272,26,76,61
+offsets:3,1,80,63
+rotate:90
+Red/Body Sau
+bounds:772,21,79,68
+offsets:1,2,81,73
+rotate:90
+Red/Eye
+bounds:3147,202,112,58
+offsets:1,1,114,60
+Red/Face
+bounds:764,102,158,151
+offsets:1,1,160,153
+rotate:90
+Red/Face Ngang
+bounds:1521,109,148,151
+offsets:1,1,150,153
+Red/Face Sau
+bounds:612,101,159,150
+offsets:1,1,161,152
+rotate:90
+Red/Hand_L Ngang
+bounds:2814,41,68,63
+offsets:1,1,70,65
+rotate:90
+Red/Hand_L Sau
+bounds:2222,37,70,65
+offsets:1,1,72,67
+rotate:90
+Red/Hand_L
+bounds:2222,37,70,65
+offsets:1,1,72,67
+rotate:90
+Red/Hand_R Ngang
+bounds:2289,37,70,65
+offsets:1,1,72,67
+rotate:90
+Red/Hand_R
+bounds:2289,37,70,65
+offsets:1,1,72,67
+rotate:90
+Red/Hand_R Sau
+bounds:2289,37,70,65
+offsets:1,1,72,67
+rotate:90
+Red/Leg_L1
+bounds:3218,81,27,45
+offsets:1,1,30,47
+Red/Leg_L1 Ngang
+bounds:3128,48,27,45
+offsets:2,1,30,47
+rotate:90
+Red/Leg_R1
+bounds:3128,48,27,45
+offsets:2,1,30,47
+rotate:90
+Red/Leg_R1 Ngang
+bounds:3128,48,27,45
+offsets:2,1,30,47
+rotate:90
+Red/Leg_L1 Sau
+bounds:3089,2,27,44
+offsets:1,1,29,46
+Red/Leg_L2 Ngang
+bounds:3147,3,43,29
+offsets:1,1,45,31
+rotate:90
+Red/Leg_R2
+bounds:3147,3,43,29
+offsets:1,1,45,31
+rotate:90
+Red/Leg_R2 Ngang
+bounds:3147,3,43,29
+offsets:1,1,45,31
+rotate:90
+Red/Leg_R2 Sau
+bounds:3147,3,43,29
+offsets:1,1,45,31
+rotate:90
+Red/Leg_L2 Sau
+bounds:3175,50,43,29
+offsets:1,1,45,31
+Red/Leg_L2
+bounds:3175,50,43,29
+offsets:1,1,45,31
+Red/Leg_R1 Sau
+bounds:3118,2,27,44
+offsets:1,1,29,46
+White/Body
+bounds:1411,32,74,74
+offsets:1,1,76,77
+White/Body Ngang
+bounds:1096,23,78,74
+offsets:4,1,83,77
+rotate:90
+White/Body Sau
+bounds:1335,28,74,74
+offsets:1,1,76,77
+White/Eye
+bounds:2,2,71,37
+offsets:1,1,73,39
+rotate:90
+White/Eye3
+bounds:451,7,81,24
+offsets:1,1,83,26
+rotate:90
+White/Face
+bounds:1821,109,148,151
+offsets:1,1,150,153
+White/Face Ngang
+bounds:2970,111,120,149
+offsets:1,1,122,151
+White/Face Sau
+bounds:1671,109,148,151
+offsets:1,1,150,153
+White/Hand_L
+bounds:2554,38,70,61
+offsets:1,1,72,63
+rotate:90
+White/Hand_L Ngang
+bounds:3069,48,61,57
+offsets:1,1,70,59
+rotate:90
+White/Hand_R Ngang
+bounds:3069,48,61,57
+offsets:1,1,70,59
+rotate:90
+White/Hand_L Sau
+bounds:2751,40,69,61
+offsets:1,1,72,63
+rotate:90
+White/Hand_R
+bounds:2944,41,68,63
+offsets:1,1,70,65
+rotate:90
+White/Hand_R Sau
+bounds:2879,41,68,63
+offsets:1,1,70,65
+rotate:90
+White/Leg_L1 Ngang
+bounds:2633,3,34,38
+offsets:1,1,36,40
+rotate:90
+White/Leg_R1 Ngang
+bounds:2633,3,34,38
+offsets:1,1,36,40
+rotate:90
+White/Leg_L1 Sau
+bounds:1688,3,32,52
+offsets:2,1,35,55
+rotate:90
+White/Leg_L1
+bounds:1688,3,32,52
+offsets:2,1,35,55
+rotate:90
+White/Leg_L2 Ngang
+bounds:3181,128,42,29
+offsets:1,1,45,31
+rotate:90
+White/Leg_R2 Ngang
+bounds:3181,128,42,29
+offsets:1,1,45,31
+rotate:90
+White/Leg_L2 Sau
+bounds:3212,128,42,29
+offsets:1,1,44,31
+rotate:90
+White/Leg_L2
+bounds:3212,128,42,29
+offsets:1,1,44,31
+rotate:90
+White/Leg_R1 Sau
+bounds:2582,2,34,49
+offsets:1,1,36,52
+rotate:90
+White/Leg_R1
+bounds:2582,2,34,49
+offsets:1,1,36,52
+rotate:90
+White/Leg_R2
+bounds:2953,10,44,29
+offsets:1,1,46,31
+White/Leg_R2 Sau
+bounds:3178,5,43,29
+offsets:1,1,45,31
+rotate:90

@@ -1,0 +1,34 @@
+Item Bomb.png
+size:352,422
+filter:Linear,Linear
+pma:true
+Dau +
+bounds:110,15,43,43
+offsets:1,1,45,45
+Layer 29 copy
+bounds:165,160,24,24
+offsets:1,1,26,26
+Layer 29 copy 2
+bounds:2,2,52,56
+offsets:1,1,55,58
+Layer 29 copy 3
+bounds:165,186,34,35
+offsets:1,1,36,37
+Layer 29 copy 4
+bounds:56,3,52,55
+offsets:1,1,55,57
+Layer 40
+bounds:2,223,197,197
+offsets:13,18,225,224
+Layer 40 copy
+bounds:201,140,132,129
+offsets:1,6,136,136
+Rounded Rectangle 1
+bounds:201,271,149,149
+offsets:1,1,151,151
+Rounded Rectangle 1 copy 3
+bounds:2,60,161,161
+offsets:1,1,163,163
+bomb copy
+bounds:165,20,93,118
+offsets:1,1,95,120

@@ -1,0 +1,122 @@
+Boss Candy.png
+size:1010,1010
+filter:Linear,Linear
+pma:true
+1
+bounds:918,124,57,77
+offsets:1,1,60,80
+2
+bounds:918,124,57,77
+offsets:1,1,60,80
+3
+bounds:918,124,57,77
+offsets:1,1,60,80
+4
+bounds:918,124,57,77
+offsets:1,1,60,80
+5
+bounds:918,124,57,77
+offsets:1,1,60,80
+6
+bounds:918,124,57,77
+offsets:1,1,60,80
+1.1
+bounds:833,86,83,103
+offsets:8,1,100,105
+2.1
+bounds:833,86,83,103
+offsets:8,1,100,105
+3.1
+bounds:833,86,83,103
+offsets:8,1,100,105
+4.1
+bounds:833,86,83,103
+offsets:8,1,100,105
+5.1
+bounds:833,86,83,103
+offsets:8,1,100,105
+6.1
+bounds:833,86,83,103
+offsets:8,1,100,105
+Boss Candy Skill 1/Candy
+bounds:546,178,161,163
+offsets:2,2,164,167
+Boss Candy Skill 1/Light 1
+bounds:379,643,270,365
+offsets:6,9,283,382
+Boss Candy Skill 1/Light 2
+bounds:2,2,207,322
+offsets:5,4,218,330
+rotate:90
+Boss Candy Skill 1/Light 3
+bounds:651,609,191,326
+offsets:6,4,201,337
+rotate:90
+Bum 1
+bounds:912,343,90,92
+rotate:90
+Bum 2
+bounds:709,191,160,150
+Bum 3
+bounds:326,67,224,218
+rotate:90
+Bum 4
+bounds:669,414,206,193
+Bum 5
+bounds:546,37,151,139
+Bum 6
+bounds:871,203,138,126
+rotate:90
+Chan May
+bounds:290,213,78,15
+offsets:1,2,80,18
+rotate:90
+Eye
+bounds:968,902,106,25
+offsets:2,1,110,27
+rotate:90
+Eye Die
+bounds:326,13,108,52
+offsets:1,1,110,54
+Eye Die Nho
+bounds:436,23,99,42
+offsets:5,6,110,54
+Face
+bounds:709,67,122,122
+offsets:1,1,124,124
+Hair 1
+bounds:290,293,271,237
+rotate:90
+Hair 2
+bounds:669,343,241,69
+offsets:1,1,243,72
+Hair 3
+bounds:651,802,315,206
+Layer 1
+bounds:379,572,268,69
+offsets:1,1,270,71
+Mouth
+bounds:968,855,45,22
+offsets:1,2,47,25
+rotate:90
+Mouth Die
+bounds:871,191,36,10
+offsets:1,1,38,12
+Tay Phai
+bounds:918,73,52,49
+offsets:1,1,55,51
+Tay Trai
+bounds:699,16,52,49
+offsets:2,1,55,51
+VK
+bounds:2,211,286,353
+offsets:2,1,289,356
+VK Glow
+bounds:2,566,375,442
+offsets:25,12,429,464
+Vay
+bounds:529,355,215,138
+rotate:90
+ao
+bounds:877,435,172,115
+rotate:90

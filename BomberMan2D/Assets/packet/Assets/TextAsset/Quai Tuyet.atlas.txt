@@ -1,0 +1,23 @@
+Quai Tuyet.png
+size:877,258
+filter:Linear,Linear
+pma:true
+Body
+bounds:281,5,277,251
+offsets:1,1,279,253
+Body Die
+bounds:2,5,277,251
+offsets:1,1,279,253
+Eye
+bounds:560,64,211,83
+offsets:1,2,213,86
+Eye Die To
+bounds:560,149,222,107
+offsets:1,1,224,109
+Eye_Dei
+bounds:784,68,188,91
+offsets:1,1,190,93
+rotate:90
+Shadow
+bounds:560,2,243,60
+offsets:1,1,245,62

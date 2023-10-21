@@ -1,0 +1,86 @@
+Bomb Basicc.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Bomb_Basic/Bom Basic
+bounds:161,4,76,81
+Bomb_Basic/Line Basic
+bounds:166,85,15,28
+rotate:90
+Bomb_DauLau/Line Dau Lau
+bounds:166,85,15,28
+rotate:90
+Bomb_Ech/Line Ech
+bounds:166,85,15,28
+rotate:90
+Bomb_Heo/Line Heo
+bounds:166,85,15,28
+rotate:90
+Bomb_Ice/Line Ice
+bounds:166,85,15,28
+rotate:90
+Bomb_Rainbow/Line Rainbow
+bounds:166,85,15,28
+rotate:90
+Bomb_Tim/Line Tim
+bounds:166,85,15,28
+rotate:90
+Bomb_Vit/Line Vit
+bounds:166,85,15,28
+rotate:90
+Bomb_Basic/Lua Basic
+bounds:187,133,34,34
+Bomb_Basic/Shadow  copy
+bounds:166,100,67,21
+rotate:90
+Bomb_DauLau/Shadow Dau Lau
+bounds:166,100,67,21
+rotate:90
+Bomb_Ech/Shadow  Ech
+bounds:166,100,67,21
+rotate:90
+Bomb_Heo/Shadow Heo
+bounds:166,100,67,21
+rotate:90
+Bomb_Ice/Shadow Ice
+bounds:166,100,67,21
+rotate:90
+Bomb_Rainbow/Shadow Rainbow
+bounds:166,100,67,21
+rotate:90
+Bomb_Tim/Shadow Tim
+bounds:166,100,67,21
+rotate:90
+Bomb_Vit/Shadow  Vit
+bounds:166,100,67,21
+rotate:90
+Bomb_DauLau/Bom Dau Lau
+bounds:85,2,76,83
+Bomb_DauLau/Lua Dau Lau
+bounds:194,99,34,34
+Bomb_Ech/Bom Ech
+bounds:81,85,79,85
+rotate:90
+Bomb_Ech/Lua Ech
+bounds:221,133,34,34
+Bomb_Heo/Bom Heo
+bounds:0,164,82,88
+Bomb_Heo/Lua Heo
+bounds:228,99,34,34
+Bomb_Ice/Lua Ice
+bounds:228,99,34,34
+Bomb_Tim/Lua Tim
+bounds:228,99,34,34
+Bomb_Ice/Bom Ice
+bounds:0,80,81,84
+Bomb_Rainbow/Bom Rainbow
+bounds:0,0,80,85
+rotate:90
+Bomb_Rainbow/Lua Rainbow
+bounds:238,218,34,34
+Bomb_Tim/bom Tim
+bounds:161,167,77,85
+Bomb_Vit/Bom Vit
+bounds:82,168,79,84
+Bomb_Vit/Lua Vit
+bounds:238,184,34,34

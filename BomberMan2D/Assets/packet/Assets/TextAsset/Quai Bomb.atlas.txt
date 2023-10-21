@@ -1,0 +1,43 @@
+Quai Bomb.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+Body Ngang
+bounds:0,0,192,246
+Body Sau
+bounds:0,0,192,246
+Body Truoc
+bounds:192,1,192,245
+Eye Die Ngang
+bounds:626,198,48,48
+Eye Die Truoc
+bounds:446,25,129,48
+Eye Ngang
+bounds:507,84,78,59
+rotate:90
+Eye Truoc
+bounds:446,73,173,61
+rotate:90
+Leg_L Ngang
+bounds:507,162,84,63
+rotate:90
+Leg_R Ngang
+bounds:507,162,84,63
+rotate:90
+Leg_L Sau
+bounds:566,92,56,70
+Leg_L Truoc
+bounds:570,176,56,70
+Leg_R Sau
+bounds:575,22,56,70
+Leg_R Truoc
+bounds:622,106,56,70
+Shadow Ngang
+bounds:384,1,245,62
+rotate:90
+Shadow Sau
+bounds:384,1,245,62
+rotate:90
+Shadow Truoc
+bounds:384,1,245,62
+rotate:90

@@ -1,0 +1,104 @@
+Quai Robot.png
+size:925,925
+filter:Linear,Linear
+pma:true
+Body
+bounds:397,205,253,207
+offsets:1,1,256,209
+Body Die
+bounds:2,237,264,206
+offsets:33,7,301,214
+Eye L Die
+bounds:326,17,71,71
+offsets:1,1,73,73
+Eye R Die
+bounds:399,32,71,71
+offsets:1,1,73,73
+Hand L 1
+bounds:891,776,30,31
+offsets:1,1,32,33
+rotate:90
+Hand L 1.1
+bounds:891,883,26,40
+offsets:1,1,28,42
+Hand L 1.2
+bounds:472,62,37,41
+offsets:1,1,39,43
+Hand L Die
+bounds:268,237,52,82
+offsets:1,1,54,84
+Hand R 1
+bounds:891,808,30,32
+offsets:1,1,32,34
+rotate:90
+Hand R 1.1
+bounds:891,840,25,41
+offsets:1,1,27,43
+Hand R 1.2
+bounds:472,18,36,42
+offsets:1,1,38,44
+Hand R Die
+bounds:652,259,50,83
+offsets:1,1,52,85
+Heat
+bounds:215,16,109,108
+offsets:1,1,111,117
+Heat Die
+bounds:215,126,109,109
+offsets:1,1,111,117
+Khoi_00001
+bounds:732,78,67,53
+offsets:1,1,69,55
+rotate:90
+Khoi_00002
+bounds:392,105,118,98
+offsets:1,1,120,100
+Khoi_00003
+bounds:269,566,151,136
+offsets:1,1,153,138
+Khoi_00004
+bounds:732,147,195,183
+offsets:1,1,197,185
+rotate:90
+Khoi_00005
+bounds:679,344,234,224
+offsets:1,1,236,226
+Khoi_00006
+bounds:422,414,255,246
+offsets:1,1,257,248
+Khoi_00007
+bounds:2,445,265,257
+offsets:1,1,267,259
+Khoi_00008
+bounds:441,662,269,261
+offsets:1,1,271,263
+Khoi_00009
+bounds:2,19,216,211
+offsets:1,1,218,213
+rotate:90
+Khoi_00010
+bounds:512,5,218,198
+offsets:1,1,220,200
+Lazer 1
+bounds:712,570,353,177
+offsets:1,1,355,179
+rotate:90
+Lazer 2
+bounds:2,704,437,219
+offsets:1,1,439,221
+Leg L
+bounds:331,328,64,117
+offsets:1,1,66,119
+Leg L Die
+bounds:331,447,64,117
+offsets:1,1,66,119
+Leg R
+bounds:326,90,64,117
+offsets:1,1,66,119
+Leg R Die
+bounds:331,209,64,117
+offsets:1,1,66,119
+Shadow
+bounds:269,321,243,60
+offsets:1,1,245,62
+rotate:90
