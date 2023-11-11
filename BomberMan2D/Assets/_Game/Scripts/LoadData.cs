@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class LoadData : MonoBehaviour
 {
     private string filePath;
-    private string[,] mapData;
+    public string[,] mapData;
     private GameObject[,] spawnedObjects;
     [SerializeField] private LevelData levelData;
     [SerializeField] private Image imageBackground;

@@ -1,39 +1,38 @@
 using System.Collections.Generic;
+using _Game.Scripts.Character;
 using UnityEngine;
 
-public class LevelManager : Singleton<LevelManager>
+namespace _Game.Scripts.Manager
 {
-    public LoadData loadData;
-    [SerializeField] private PlayerController player1Prefab, player2Prefab;
-    [SerializeField] private Bot botPrefab;
-    [SerializeField] private List<Transform> lstPosSpawn = new List<Transform>();
-    private int botCount, player1Count, player2Count;
-
-    void Start()
+    public class LevelManager : Singleton<LevelManager>
     {
-        loadData.OnInit();
-        for (int i = 0; i < 2; i++)
-        {
-            Bot botSpawn = Instantiate(botPrefab, lstPosSpawn[0]);
-            lstPosSpawn.RemoveAt(0);
-            botSpawn.Move();
-        }
+        public LoadData loadData;
+        [SerializeField] private PlayerController player1Prefab, player2Prefab;
+        [SerializeField] private Bot botPrefab;
+        [SerializeField] private List<Transform> lstPosSpawn = new List<Transform>();
+        private int botCount, player1Count, player2Count;
 
-        if (player1Count == 1)
+        void Start()
         {
-            PlayerController playerControllerSpawn = Instantiate(player1Prefab, lstPosSpawn[0]);
-            lstPosSpawn.RemoveAt(0);
-        }
+            loadData.OnInit();
+            for (int i = 0; i < 2; i++)
+            {
+                Bot botSpawn = Instantiate(botPrefab, lstPosSpawn[0].position,Quaternion.identity);
+                lstPosSpawn.RemoveAt(0);
+                botSpawn.OnInit();
+            }
 
-        if (player2Count == 1)
-        {
-            PlayerController playerControllerSpawn = Instantiate(player2Prefab, lstPosSpawn[0]);
-            lstPosSpawn.RemoveAt(0);
-        }
-    }
+            if (player1Count == 1)
+            {
+                PlayerController playerControllerSpawn = Instantiate(player1Prefab, lstPosSpawn[0]);
+                lstPosSpawn.RemoveAt(0);
+            }
 
-    // Update is called once per frame
-    void Update()
-    {
+            // if (player2Count == 1)
+            // {
+            //     PlayerController playerControllerSpawn = Instantiate(player2Prefab, lstPosSpawn[0]);
+            //     lstPosSpawn.RemoveAt(0);
+            // }
+        }
     }
 }

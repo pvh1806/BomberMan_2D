@@ -1,6 +1,5 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+using _Game.Scripts.Boom;
+using _Game.Scripts.Manager;
 using UnityEngine;
 
 public class CharacterController : MonoBehaviour

@@ -93,7 +93,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitBox: {fileID: 837513431753257444}
-  explosionPrefab: {fileID: 5395673977789634694, guid: 46083870721bbd0488f3b996dd41fddb, type: 3}
+  explosionPrefab: {fileID: 3153999706105112993, guid: 46083870721bbd0488f3b996dd41fddb, type: 3}
   itemsData: {fileID: 11400000, guid: 3b89d933492928b43a0ef7089ef80d50, type: 2}
 --- !u!1 &7691363463836863167
 GameObject:
