@@ -11,7 +11,6 @@ public class LevelData : ScriptableObject
 {
     public Level[] level;
     public Level levelCurrent;
-    public int levelTotal;
     public Level GetLevel(LevelType levelType)
     {
         return level[(int)levelType];

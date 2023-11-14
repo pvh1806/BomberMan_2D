@@ -275,7 +275,7 @@ MonoBehaviour:
   row: 0
   col: 0
   boomPrefab: {fileID: -5104162482397582767, guid: 9038f278ba45baf489a4688dadf9b456, type: 3}
-  spawnBoom: 1
+  spawnBoom: 5
   spriteRenderer: {fileID: 9080951155137603776}
   direction: {x: 0, y: -1}
   left: 276

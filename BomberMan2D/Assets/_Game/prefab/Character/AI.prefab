@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 1
-  moveSpeed: 5
+  moveSpeed: 3
   rangeBoom: 2
   rigidbody: {fileID: 8191787184149533480}
   animator: {fileID: 6247225862813832478}

@@ -14,7 +14,9 @@ public class CharacterController : MonoBehaviour
     public int spawnBoom;
     private string animName;
     public SpriteRenderer spriteRenderer;
-    public void ChangeAnim(string animNameType)
+    private bool isSpawnBoom = true;
+    public bool isDead;
+    protected void ChangeAnim(string animNameType)
     {
         if (animName != animNameType)
         {
@@ -26,18 +28,31 @@ public class CharacterController : MonoBehaviour
     
     protected void Boom()
     {
-        if (spawnBoom > 0)
+        if (spawnBoom > 0 && isSpawnBoom)
         {
+            isSpawnBoom = false;
             spawnBoom--;
             LevelManager.Ins.loadData.GetPos(transform.position, out col, out row);
             Vector2 posSpawn = new Vector2(col + 0.5f, row +  0.5f);
             Boom boomSpawn = Instantiate(boomPrefab, posSpawn, Quaternion.identity);
             boomSpawn.StartCoroutine(boomSpawn.FireRate(this, 4f, col,row , rangeBoom));
             LevelManager.Ins.loadData.ChangeValue(col ,row , "0");
+            Invoke(nameof(SetActiveBoolSpawnBoom),1f);
         }
+    }
+
+    private void SetActiveBoolSpawnBoom()
+    {
+        isSpawnBoom = true;
     }
     public void Die()
     {
-        
+        ChangeAnim(Constant.ANIM_DIE);
+        Invoke(nameof(SetActive),1.2f);
+    }
+
+    protected void SetActive()
+    {
+        gameObject.SetActive(false);
     }
 }

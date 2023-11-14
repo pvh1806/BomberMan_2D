@@ -7,7 +7,7 @@ namespace _Game.Scripts.Boom
     public class Boom : MonoBehaviour
     {
         [SerializeField] private BoxCollider2D hitBox;
-        public Fire_Boom explosionPrefab;
+        public FireBoom explosionPrefab;
         [SerializeField] private ItemsData itemsData;
         private bool isUp = true ;
         private bool isDown = true ;
@@ -51,8 +51,8 @@ namespace _Game.Scripts.Boom
                 }
             }
             yield return new WaitForSeconds(delayTimer);
-            Destroy(gameObject);
             characterController.spawnBoom++;
+            Destroy(gameObject);
         }
     
         private void CheckValue(int col, int row, ref bool isBlock)

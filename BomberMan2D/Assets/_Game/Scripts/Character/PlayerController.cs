@@ -6,36 +6,39 @@ namespace _Game.Scripts.Character
     {
         public Vector2 direction = Vector2.down;
         [SerializeField] private KeyCode left, right, top, down , boom;
-        private void Update()
+        private void FixedUpdate()
         {
-            if (Input.GetKey(left))
+            if (!isDead)
             {
-                Left();
+                if (Input.GetKey(left))
+                {
+                    Left();
+                }
+                else if (Input.GetKey(right))
+                {
+                    Right();
+                }
+                else if (Input.GetKey(top))
+                {
+                    Top();
+                }
+                else if (Input.GetKey(down))
+                {
+                    Down();
+                }
+                else
+                {
+                    Idle();
+                }
+                //dat boom 
+                if (Input.GetKey(boom))
+                {
+                    Boom();
+                }
+                Vector2 position = rigidbody.position;
+                Vector2 translation = direction * (moveSpeed * Time.fixedDeltaTime);
+                rigidbody.MovePosition(position + translation);
             }
-            else if (Input.GetKey(right))
-            {
-                Right();
-            }
-            else if (Input.GetKey(top))
-            {
-                Top();
-            }
-            else if (Input.GetKey(down))
-            {
-                Down();
-            }
-            else
-            {
-                Idle();
-            }
-            //dat boom 
-            if (Input.GetKey(boom))
-            {
-                Boom();
-            }
-            Vector2 position = rigidbody.position;
-            Vector2 translation = direction * (moveSpeed * Time.deltaTime);
-            rigidbody.MovePosition(position + translation);
         }
         private void Left()
         {
@@ -70,6 +73,11 @@ namespace _Game.Scripts.Character
         {
             direction = newDirection;
             ChangeAnim(animName);
+        }
+
+        public virtual void Die()
+        {
+            base.Die();
         }
     }
 }

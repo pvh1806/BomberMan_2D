@@ -21,8 +21,6 @@ namespace _Game.Scripts.Character
         private List<Vector3> lstTargetBoomLeft = new List<Vector3>();
         private List<Vector3> lstTargetBoomDown = new List<Vector3>();
         private List<List<Vector3>> lstCheckBoom = new List<List<Vector3>>();
-        private int lastX;
-        private int lastY;
         private int index;
         private bool isCheckBoomUp = true;
         private bool isCheckBoomDown = true;
@@ -30,6 +28,7 @@ namespace _Game.Scripts.Character
         private bool isCheckBoomRight = true;
         private bool isCheck;
         private List<Vector3> y;
+        private float timer;
 
         private enum StateBot
         {
@@ -48,12 +47,13 @@ namespace _Game.Scripts.Character
 
         void Update()
         {
-            loadData.GetPos(transform.position, out col, out row);
+            if (!isDead)
+            {
+                 loadData.GetPos(transform.position, out col, out row);
             var x = loadData.mapData[row, col];
-            if (x == "4")
+            if (x == "4" || x == "0")
             {
                 currentState = StateBot.Boom;
-                //ChangeAnim(Constant.ANIM_IDLE);
             }
 
             if (currentState == StateBot.Move)
@@ -75,6 +75,16 @@ namespace _Game.Scripts.Character
                 if (!isCheck)
                 {
                     isCheck = true;
+                    isCheckBoomUp = true;
+                    isCheckBoomDown = true;
+                    isCheckBoomLeft = true;
+                    isCheckBoomRight = true;
+                    lstCheckBoom.Clear();
+                    lstTargetBoomUp.Clear();
+                    lstTargetBoomDown.Clear();
+                    lstTargetBoomLeft.Clear();
+                    lstTargetBoomRight.Clear();
+                    lstTarget.Clear();
                     ListGoNotBoom();
                     CheckListGoNotBoom();
                     y = FindSmallestList(lstCheckBoom);
@@ -82,41 +92,54 @@ namespace _Game.Scripts.Character
 
                 if (y == null)
                 {
-                    Debug.Log("lists null");
-                    ChangeAnim(Constant.ANIM_IDLE);
+                    isCheck = false;
                 }
                 else
                 {
-                    //Debug.Log(y.Count);
                     if (index < y.Count)
                     {
-                        transform.position = Vector3.MoveTowards(transform.position, y[index], moveSpeed * Time.deltaTime);
-                        // Check the distance to the current position, not the original target
-                        if (Vector3.Distance(transform.position, y[index]) < 0.01f)
+                        int lastX = (int)(y[index].x);
+                        int lastY = (int)(y[index].y);
+                        int lastFinalX = (int)(y[y.Count - 1].x);
+                        int lastFinalY = (int)(y[y.Count - 1].y);
+                        if (loadData.mapData[lastY, lastX] == "0" ||
+                            loadData.mapData[lastFinalY, lastFinalX] ==
+                            "4" ||  loadData.mapData[lastFinalY, lastFinalX] == "0")
                         {
-                            index++;
+                            isCheck = false;
+                            index = 0;
+                            timer = 0f;
+                            Move();
+                            currentState = StateBot.Move;
+                        }
+                        else
+                        {
                             SetAnim(y[index]);
+                            transform.position =
+                                Vector3.MoveTowards(transform.position, y[index], moveSpeed * Time.deltaTime);
+                            if (Vector3.Distance(transform.position, y[index]) < 0.001f)
+                            {
+                                index++;
+                            }
                         }
                     }
                     else
                     {
-                        isCheckBoomUp = true;
-                        isCheckBoomDown = true;
-                        isCheckBoomLeft = true;
-                        isCheckBoomRight = true;
-                        lstCheckBoom.Clear();
-                        lstTargetBoomUp.Clear();
-                        lstTargetBoomDown.Clear();
-                        lstTargetBoomLeft.Clear();
-                        lstTargetBoomRight.Clear();
-                        isCheck = false;
-                        index = 0;
-                        Move();
-                        currentState = StateBot.Move; 
+                        //timer += Time.deltaTime;
+                        //ChangeAnim(Constant.ANIM_IDLE);
+                        //if (timer >= 0.6f)
+                        //{
+                            isCheck = false;
+                            index = 0;
+                            //timer = 0f;
+                            Move();
+                            currentState = StateBot.Move;
+                        //}
                     }
-                   
                 }
             }
+            }
+           
         }
 
         private List<Vector3> FindSmallestList(List<List<Vector3>> lists)
@@ -182,7 +205,7 @@ namespace _Game.Scripts.Character
         private void CheckValue(int col, int row, ref bool isBlock)
         {
             var x = loadData.mapData[row, col];
-            if (x == "3" || x=="4")
+            if (x == "3" /*|| x == "4"*/)
             {
                 AddTarget(col, row);
             }
@@ -203,21 +226,19 @@ namespace _Game.Scripts.Character
         {
             if (lstTargetBoomUp.Count > 0)
             {
-                lastX = (int)lstTargetBoomUp[lstTargetBoomUp.Count - 1].x;
-                lastY = (int)lstTargetBoomUp[lstTargetBoomUp.Count - 1].y;
-                if (loadData.mapData[lastY, lastX] == "3")
+                int lastXUp = (int)lstTargetBoomUp[lstTargetBoomUp.Count - 1].x;
+                int lastYUp = (int)lstTargetBoomUp[lstTargetBoomUp.Count - 1].y;
+                if (loadData.mapData[lastYUp, lastXUp] == "3")
                 {
                     lstCheckBoom.Add(lstTargetBoomUp);
-                    Debug.Log("1");
                 }
             }
 
             if (lstTargetBoomDown.Count > 0)
             {
-                Debug.Log("2");
-                lastX = (int)lstTargetBoomDown[lstTargetBoomDown.Count - 1].x;
-                lastY = (int)lstTargetBoomDown[lstTargetBoomDown.Count - 1].y;
-                if (loadData.mapData[lastY, lastX] == "3")
+                int lastXDown = (int)lstTargetBoomDown[lstTargetBoomDown.Count - 1].x;
+                int lastYDown = (int)lstTargetBoomDown[lstTargetBoomDown.Count - 1].y;
+                if (loadData.mapData[lastYDown, lastXDown] == "3")
                 {
                     lstCheckBoom.Add(lstTargetBoomDown);
                 }
@@ -225,23 +246,21 @@ namespace _Game.Scripts.Character
 
             if (lstTargetBoomLeft.Count > 0)
             {
-                lastX = Mathf.RoundToInt(lstTargetBoomLeft[lstTargetBoomLeft.Count - 1].x);
-                lastY = Mathf.RoundToInt(lstTargetBoomLeft[lstTargetBoomLeft.Count - 1].y);
-                if (loadData.mapData[lastY, lastX] == "3")
+                int lastXLeft = (int)(lstTargetBoomLeft[lstTargetBoomLeft.Count - 1].x);
+                int lastYLeft = (int)(lstTargetBoomLeft[lstTargetBoomLeft.Count - 1].y);
+                if (loadData.mapData[lastYLeft, lastXLeft] == "3")
                 {
                     lstCheckBoom.Add(lstTargetBoomLeft);
-                    Debug.Log("3");
                 }
             }
 
             if (lstTargetBoomRight.Count > 0)
             {
-                lastX = Mathf.RoundToInt(lstTargetBoomRight[lstTargetBoomRight.Count - 1].x);
-                lastY = Mathf.RoundToInt(lstTargetBoomRight[lstTargetBoomRight.Count - 1].y);
-                if (loadData.mapData[lastY, lastX] == "3")
+                int lastXRight = (int)(lstTargetBoomRight[lstTargetBoomRight.Count - 1].x);
+                int lastYRight = (int)(lstTargetBoomRight[lstTargetBoomRight.Count - 1].y);
+                if (loadData.mapData[lastYRight, lastXRight] == "3")
                 {
                     lstCheckBoom.Add(lstTargetBoomRight);
-                    Debug.Log("4");
                 }
             }
         }
@@ -300,7 +319,6 @@ namespace _Game.Scripts.Character
                     }
                 }
 
-
                 //checkLeft
                 if (isCheckBoomLeft)
                 {
@@ -331,16 +349,16 @@ namespace _Game.Scripts.Character
                 {
                     if (loadData.mapData[row + i, col] == "3" || loadData.mapData[row + i, col] == "4")
                     {
-                        lstTargetBoomRight.Add(new Vector3(col + i, row + 0.5f, 0f));
+                        lstTargetBoomRight.Add(new Vector3(col + 0.5f, row + i + 0.5f, 0f));
                         if (loadData.mapData[row + i, col + 1] == "3")
                         {
-                            lstTargetBoomRight.Add(new Vector3(col + i, row + 1.5f, 0f));
+                            lstTargetBoomRight.Add(new Vector3(col + 1.5f, row + i + 0.5f, 0f));
                             break;
                         }
 
                         if (loadData.mapData[row + i, col - 1] == "3")
                         {
-                            lstTargetBoomRight.Add(new Vector3(col + i, row - 0.5f, 0f));
+                            lstTargetBoomRight.Add(new Vector3(col - 0.5f, row + i + 0.5f, 0f));
                             break;
                         }
                     }
@@ -348,55 +366,7 @@ namespace _Game.Scripts.Character
                     {
                         isCheckBoomRight = false;
                     }
-                    //}
                 }
-                // else
-                // {
-                //     //checkUp
-                //     if (isCheckBoomUp)
-                //     {
-                //         if (loadData.mapData[row, col + i] == "3")
-                //         {
-                //             lstTargetBoomUp.Add(new Vector3(col + 0.5f, row + i + 0.5f, 0f));
-                //             break;
-                //         }
-                //         isCheckBoomUp = false;
-                //     }
-                //    
-                //
-                //     //checkDown
-                //     if (isCheckBoomDown)
-                //     {
-                //         if (loadData.mapData[row, col - i] == "3")
-                //         {
-                //             lstTargetBoomDown.Add(new Vector3(col + 0.5f, row - i + 0.5f, 0f));
-                //             break;
-                //         }
-                //
-                //         isCheckBoomDown = false;
-                //     }
-                //     
-                //
-                //     //checkLeft
-                //     if (isCheckBoomLeft)
-                //     {
-                //         if (loadData.mapData[row - i, col] == "3")
-                //         {
-                //             lstTargetBoomLeft.Add(new Vector3(col - i, row + 0.5f, 0f));
-                //             break;
-                //         }
-                //
-                //         isCheckBoomLeft = false;
-                //     }
-                //    
-                //
-                //     //checkRight
-                //     if (loadData.mapData[row + i, col] == "3")
-                //     {
-                //         lstTargetBoomRight.Add(new Vector3(col + i, row + 0.5f, 0f));
-                //         break;
-                //     }
-                // }
             }
         }
 
@@ -413,10 +383,9 @@ namespace _Game.Scripts.Character
                 if (spawnBoom > 0)
                 {
                     Boom();
-                    //currentState = StateBot.Boom;
                 }
 
-                target = lstTarget[0];
+                target = transform.position;
             }
             else
             {
