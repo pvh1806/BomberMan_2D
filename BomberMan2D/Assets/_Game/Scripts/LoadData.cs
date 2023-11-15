@@ -1,4 +1,6 @@
 using System.IO;
+using _Game.Scripts.Manager;
+using _Game.ScriptsTableObj;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -14,7 +16,7 @@ namespace _Game.Scripts
         private Level levelCurrent;
         public int countSpawn;
         public float posSpawn;
-
+        private float timer;
         public void OnInit()
         {
             OnReSources();
@@ -23,9 +25,35 @@ namespace _Game.Scripts
                 LoadMapFromFile();
                 GenerateMap();
                 LoadBackGround();
+                timer = levelCurrent.timer;
+                Timer();
             }
         }
 
+        private void Timer()
+        {
+            LevelManager.Ins.textTimer.SetText( timer.ToString());
+            timer--;
+            if (timer > 0)
+            {
+                Invoke(nameof(Timer),1f);
+                if (timer < 20)
+                {
+                    LevelManager.Ins.textTimer.color = Color.red;
+                }
+            }
+            else
+            {
+                if (LevelManager.Ins.playerCount < 2)
+                {
+                    LevelManager.Ins.Dead("Bot Win");
+                }
+                else
+                {
+                    LevelManager.Ins.Dead("No Player Win");
+                }
+            }
+        }
         private void OnReSources()
         {
             levelCurrent = levelData.levelCurrent;

@@ -21,3 +21,4 @@ MonoBehaviour:
   backGround: {fileID: 8535467288975408454, guid: fee06034ead7ea746995ec6c72d51a42, type: 3}
   countSpawn: 26
   posSpawn: 0
+  timer: 150

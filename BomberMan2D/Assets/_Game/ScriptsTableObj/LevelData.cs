@@ -1,18 +1,17 @@
 using UnityEngine;
-public enum LevelType
+
+namespace _Game.ScriptsTableObj
 {
-    Level0 = 0 ,
-    Level1 = 1 ,
-    Level2 = 2 ,
-    Level3 = 3 ,
-}
-[CreateAssetMenu(fileName = "LevelData", menuName = "ScriptableObjects/LevelData")]
-public class LevelData : ScriptableObject
-{
-    public Level[] level;
-    public Level levelCurrent;
-    public Level GetLevel(LevelType levelType)
+    [CreateAssetMenu(fileName = "LevelData", menuName = "ScriptableObjects/LevelData")]
+    public class LevelData : ScriptableObject
     {
-        return level[(int)levelType];
+        public Level[] level;
+        public Level levelCurrent;
+        public int playerCount, botCount , mapCount;
+
+        public void SetLevel()
+        {
+            levelCurrent = level[mapCount];
+        }
     }
 }

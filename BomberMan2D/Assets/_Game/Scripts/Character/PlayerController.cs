@@ -1,11 +1,24 @@
+using _Game.Scripts.Canvas;
 using UnityEngine;
 
 namespace _Game.Scripts.Character
 {
-    public class PlayerController : CharacterController
+    public sealed class PlayerController : CharacterController
     {
         public Vector2 direction = Vector2.down;
         [SerializeField] private KeyCode left, right, top, down , boom;
+        private HeathPlayer heathPlayer;
+        public void OnInit(HeathPlayer heathPlayer)
+        {
+            this.heathPlayer = heathPlayer;
+            SetText();
+        }
+
+        public void SetText()
+        {
+            heathPlayer.gameObject.SetActive(true);
+            heathPlayer.SetText(health,spawnBoom,rangeBoom,moveSpeed);
+        }
         private void FixedUpdate()
         {
             if (!isDead)
@@ -75,7 +88,7 @@ namespace _Game.Scripts.Character
             ChangeAnim(animName);
         }
 
-        public virtual void Die()
+        public new void Die()
         {
             base.Die();
         }

@@ -1,6 +1,8 @@
 using System.Collections;
 using _Game.Scripts.Manager;
+using _Game.ScriptsTableObj;
 using UnityEngine;
+using CharacterController = _Game.Scripts.Character.CharacterController;
 
 namespace _Game.Scripts.Boom
 {

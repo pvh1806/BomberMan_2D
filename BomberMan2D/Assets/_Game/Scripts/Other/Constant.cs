@@ -7,5 +7,5 @@ public class Constant
     public const string ANIM_DOWN = "Down";
     public const string TAG_CHARACTER = "Character";
     public const string TAG_FIRERATE = "FireRate";
-    
+    public const string TAG_PLAYER = "Player";
 }

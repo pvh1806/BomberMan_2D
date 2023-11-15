@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3438904293901433707}
   - component: {fileID: 8191787184149533480}
-  - component: {fileID: 2774264511678990663}
   - component: {fileID: 7108686260294427346}
+  - component: {fileID: 1828397005980582144}
   m_Layer: 6
   m_Name: AI
   m_TagString: Character
@@ -63,7 +63,30 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!58 &2774264511678990663
+--- !u!114 &7108686260294427346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255028448195956305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a08a6cf2b572e44947b5f053473d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 1
+  moveSpeed: 3
+  rangeBoom: 2
+  rigidbody: {fileID: 8191787184149533480}
+  animator: {fileID: 6247225862813832478}
+  row: 0
+  col: 0
+  boomPrefab: {fileID: -5104162482397582767, guid: 9038f278ba45baf489a4688dadf9b456, type: 3}
+  spawnBoom: 1
+  spriteRenderer: {fileID: 8541711886968682570}
+  isDead: 0
+--- !u!58 &1828397005980582144
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -98,29 +121,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.4
---- !u!114 &7108686260294427346
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1255028448195956305}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37a08a6cf2b572e44947b5f053473d91, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 1
-  moveSpeed: 3
-  rangeBoom: 2
-  rigidbody: {fileID: 8191787184149533480}
-  animator: {fileID: 6247225862813832478}
-  row: 0
-  col: 0
-  boomPrefab: {fileID: -5104162482397582767, guid: 9038f278ba45baf489a4688dadf9b456, type: 3}
-  spawnBoom: 1
-  spriteRenderer: {fileID: 8541711886968682570}
+  m_Radius: 0.45
 --- !u!1 &1478769881834566189
 GameObject:
   m_ObjectHideFlags: 0

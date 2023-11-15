@@ -203,10 +203,10 @@ GameObject:
   - component: {fileID: 9081094773432657513}
   - component: {fileID: 8165454139645521833}
   - component: {fileID: 5017146294439780938}
-  - component: {fileID: 8594809796424098206}
+  - component: {fileID: 2958764153912890021}
   m_Layer: 6
   m_Name: player2
-  m_TagString: Character
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -220,7 +220,7 @@ Transform:
   m_GameObject: {fileID: 8679840394904695759}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.52, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -275,15 +275,16 @@ MonoBehaviour:
   row: 0
   col: 0
   boomPrefab: {fileID: -5104162482397582767, guid: 9038f278ba45baf489a4688dadf9b456, type: 3}
-  spawnBoom: 5
+  spawnBoom: 1
   spriteRenderer: {fileID: 9080951155137603776}
+  isDead: 0
   direction: {x: 0, y: -1}
   left: 276
   right: 275
   top: 273
   down: 274
   boom: 271
---- !u!58 &8594809796424098206
+--- !u!58 &2958764153912890021
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -318,7 +319,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.48
+  m_Radius: 0.45
 --- !u!1 &8797269934548594337
 GameObject:
   m_ObjectHideFlags: 0
