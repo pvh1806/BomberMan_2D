@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+using _Game.Scripts.Character;
 using UnityEngine;
+using CharacterController = _Game.Scripts.Character.CharacterController;
 
 public class ItemHeath : Items
 {
@@ -10,6 +10,13 @@ public class ItemHeath : Items
         {
             CharacterController characterController = other.GetComponent<CharacterController>();
             characterController.health++;
+            SetActive(false);
+        }
+        if (other.CompareTag(Constant.TAG_PLAYER))
+        {
+            PlayerController playerController = other.GetComponent<PlayerController>();
+            playerController.health++;
+            playerController.SetText();
             SetActive(false);
         }
     }

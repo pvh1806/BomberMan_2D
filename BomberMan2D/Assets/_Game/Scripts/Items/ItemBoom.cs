@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+using _Game.Scripts.Character;
 using UnityEngine;
+using CharacterController = _Game.Scripts.Character.CharacterController;
 
 public class ItemBoom : Items
 {
@@ -10,6 +10,14 @@ public class ItemBoom : Items
         {
             CharacterController characterController = other.GetComponent<CharacterController>();
             characterController.spawnBoom++;
+            SetActive(false);
+        }
+
+        if (other.CompareTag(Constant.TAG_PLAYER))
+        {
+            PlayerController playerController = other.GetComponent<PlayerController>();
+            playerController.spawnBoom++;
+            playerController.SetText();
             SetActive(false);
         }
     }

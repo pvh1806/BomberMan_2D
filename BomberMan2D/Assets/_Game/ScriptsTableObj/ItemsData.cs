@@ -1,11 +1,15 @@
 using UnityEngine;
-[CreateAssetMenu(fileName = "ItemsData", menuName = "ScriptableObjects/ItemsData")]
-public class ItemsData : ScriptableObject
+
+namespace _Game.ScriptsTableObj
 {
-    public Items[] item;
-    public Items GetRandomItem()
+    [CreateAssetMenu(fileName = "ItemsData", menuName = "ScriptableObjects/ItemsData")]
+    public class ItemsData : ScriptableObject
     {
-        int random = Random.Range(0, 3);
-        return item[random];
+        public Items[] item;
+        public Items GetRandomItem()
+        {
+            int random = Random.Range(0, 3);
+            return item[random];
+        }
     }
 }

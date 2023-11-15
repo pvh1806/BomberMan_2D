@@ -28,7 +28,6 @@ namespace _Game.Scripts.Character
         private bool isCheckBoomRight = true;
         private bool isCheck;
         private List<Vector3> y;
-        private float timer;
 
         private enum StateBot
         {
@@ -108,7 +107,6 @@ namespace _Game.Scripts.Character
                         {
                             isCheck = false;
                             index = 0;
-                            timer = 0f;
                             Move();
                             currentState = StateBot.Move;
                         }
@@ -125,16 +123,10 @@ namespace _Game.Scripts.Character
                     }
                     else
                     {
-                        //timer += Time.deltaTime;
-                        //ChangeAnim(Constant.ANIM_IDLE);
-                        //if (timer >= 0.6f)
-                        //{
                             isCheck = false;
                             index = 0;
-                            //timer = 0f;
                             Move();
                             currentState = StateBot.Move;
-                        //}
                     }
                 }
             }

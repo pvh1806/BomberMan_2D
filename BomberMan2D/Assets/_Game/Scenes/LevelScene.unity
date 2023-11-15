@@ -3148,14 +3148,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   loadData: {fileID: 1211403175}
-  player1Prefab: {fileID: 5017146294439780938, guid: b683b25c09cacb74f884cf8b7a0b3518, type: 3}
-  player2Prefab: {fileID: 5017146294439780938, guid: 53a3b79db41f8514f80c941bfed4d013, type: 3}
+  playerPrefab:
+  - {fileID: 5017146294439780938, guid: b683b25c09cacb74f884cf8b7a0b3518, type: 3}
+  - {fileID: 5017146294439780938, guid: 53a3b79db41f8514f80c941bfed4d013, type: 3}
   botPrefab: {fileID: 7108686260294427346, guid: 742dce75062bc5348aaef53af7b57e1b, type: 3}
   lstPosSpawn:
   - {fileID: 1592642160}
   - {fileID: 955598699}
   - {fileID: 728218441}
   - {fileID: 1362301089}
+  - {fileID: 1362301089}
+  levelData: {fileID: 11400000, guid: 2fc13cd51c9d10447a080bf9624b3cd9, type: 2}
 --- !u!1 &1244205244
 GameObject:
   m_ObjectHideFlags: 0
