@@ -1,5 +1,3 @@
-using System;
-using _Game.Scripts.Manager;
 using _Game.ScriptsTableObj;
 using TMPro;
 using UnityEngine;
